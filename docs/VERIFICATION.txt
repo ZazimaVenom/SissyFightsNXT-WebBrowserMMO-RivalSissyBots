@@ -1,0 +1,62 @@
+Sissy Fights NXT 1.1.0 — verification record
+===========================================
+
+EXECUTED FOR THIS UPDATE
+- PHP8.4.27 with PDO MySQL and MariaDB11.8 in a disposable local test setup.
+- Syntax checks for all shipped PHP, assets/app.js and assets/audio.js.
+- 100 combat/content assertions passed.
+- Latest complete randomized DB integration:13,580 assertions passed,
+  all1,000 bots completed actual matches,599 completed games and3,570
+  persisted result rows; no duplicate payouts.
+- One-time bot appearance upgrade preserves identities, ratings, statistics,
+  human selections and existing room snapshots; repeated upgrade is harmless.
+- New room arena IDs remain consistent across viewers, moves, repeated reads
+  and new Engine instances. Old rooms without an arena retain their fallback.
+- Watch-tab regression:90 waiting rooms cannot hide3 existing live fights.
+- 74 HTTP/API assertions passed: avatar31 registration and persistence;
+  profile changes to12/31; rejection of32/-1; CSRF/guest protection;
+  logout/login persistence; stable arena ID/path/name for guests and players.
+- Content validation:1,000 unique bot handles,32 bot looks,5 personalities,
+  and10,000 unique materialized banter strings.
+- Media verification:32 distinct320x400 RGBA fighter PNGs with intact image
+  checksums and transparent margins;10 full1536x1024 arena PNGs.
+- Every new character and arena visually inspected. All visible fighter
+  states use the new art; action motion/callouts are implemented in CSS.
+- All44 original audio files checked against source hashes and fully decoded
+  using FFmpeg. Audio tests cover default on, browser autoplay refusal/retry,
+  saved mute/volume, MP3/OGG alternatives, scene changes, one-shot events,
+  countdown/round/result deduplication and background-tab pause/resume.
+- Desktop Chromium: live lobby, bot directory, all32 portrait choices with
+  highest-ID selection and matching preview; no broken picker images;
+  cardless combat, original/new roster rendering, readable floating stats;
+  fight advances to recorded result; same arena survives reload; saved mute
+  survives reload and sound can be reenabled; live Watch list visible.
+- No application JavaScript errors observed during desktop browser checks.
+
+LIMITS
+- Windows/XAMPP executables and CMD scripts were not executed here. Existing
+  portable Windows launchers are retained; PHP/MySQL behavior was tested on Linux.
+- HTTP tests used PHP's built-in server. Apache .htaccess rules were reviewed,
+  not exercised on an Apache server in this environment.
+- Responsive styling is included and reviewed; no physical mobile-device test.
+- No public-hosting load test or multi-day soak test was performed.
+- Browser autoplay may require the first click/tap/keypress; the saved mute
+  preference is respected. Original music consists of short cues and loops.
+
+REPRODUCE
+  php tests/engine_test.php
+  php tests/integration.php 127.0.0.1 3306 root
+  python tests/validate_content.py
+  python tests/validate_media.py
+  node tests/audio_test.cjs
+The integration test creates/removes only its own randomly named database.
+For optional HTTP boundary checks, read tests/http_smoke.py first and use a
+DISPOSABLE test installation; it creates a test human account and room.
+Python and Node are only development test tools, not game runtime requirements.
+
+SHIPPING STATE
+No app/config.php, install guard/lock, session data, DB dump, QA databases,
+credentials, test-only server, extracted runtimes or node_modules are packaged.
+The original supplied sprites are retained as attributed source assets; the
+active game renders only the32 newly illustrated portraits in avatars-v2.
+Keep your existing database and config when updating; see UPDATE-WINDOWS.txt.

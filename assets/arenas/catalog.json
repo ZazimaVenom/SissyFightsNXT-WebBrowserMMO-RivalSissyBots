@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "The Glitter Gutter",
+    "image": "assets/arenas/01.png"
+  },
+  {
+    "id": 2,
+    "name": "Dumpster Divas",
+    "image": "assets/arenas/02.png"
+  },
+  {
+    "id": 3,
+    "name": "Dial-Up Detention",
+    "image": "assets/arenas/03.png"
+  },
+  {
+    "id": 4,
+    "name": "Mall Rat Mayhem",
+    "image": "assets/arenas/04.png"
+  },
+  {
+    "id": 5,
+    "name": "Lollypop Lockdown",
+    "image": "assets/arenas/05.png"
+  },
+  {
+    "id": 6,
+    "name": "Trailer Trash Palace",
+    "image": "assets/arenas/06.png"
+  },
+  {
+    "id": 7,
+    "name": "Toilet Paper Kingdom",
+    "image": "assets/arenas/07.png"
+  },
+  {
+    "id": 8,
+    "name": "Skatepark Meltdown",
+    "image": "assets/arenas/08.png"
+  },
+  {
+    "id": 9,
+    "name": "Food Court Fiasco",
+    "image": "assets/arenas/09.png"
+  },
+  {
+    "id": 10,
+    "name": "The Petty Pool",
+    "image": "assets/arenas/10.png"
+  }
+]

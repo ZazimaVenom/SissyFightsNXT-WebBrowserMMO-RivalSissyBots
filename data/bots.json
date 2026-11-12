@@ -1,0 +1,5002 @@
+[
+  {
+    "username": "SaintLunchThief",
+    "personality": "chaos",
+    "avatar": 7
+  },
+  {
+    "username": "CaptainRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 20
+  },
+  {
+    "username": "VelvetBurpWizard",
+    "personality": "bully",
+    "avatar": 1
+  },
+  {
+    "username": "CrustyCrumbBandit",
+    "personality": "schemer",
+    "avatar": 14
+  },
+  {
+    "username": "SirWheezeMachine",
+    "personality": "bully",
+    "avatar": 27
+  },
+  {
+    "username": "DuchessArseBiscuit",
+    "personality": "chaos",
+    "avatar": 8
+  },
+  {
+    "username": "RabidPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 21
+  },
+  {
+    "username": "LadyMouldMuffin",
+    "personality": "survivor",
+    "avatar": 2
+  },
+  {
+    "username": "DeluxePantsGremlin",
+    "personality": "trickster",
+    "avatar": 15
+  },
+  {
+    "username": "ProfessorBurpWizard",
+    "personality": "bully",
+    "avatar": 28
+  },
+  {
+    "username": "RustyPantsGremlin",
+    "personality": "trickster",
+    "avatar": 9
+  },
+  {
+    "username": "ChaoticTrashPanda",
+    "personality": "trickster",
+    "avatar": 22
+  },
+  {
+    "username": "CountBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 3
+  },
+  {
+    "username": "SaltyCrumbBandit",
+    "personality": "schemer",
+    "avatar": 16
+  },
+  {
+    "username": "GrumpyFartGoblin",
+    "personality": "bully",
+    "avatar": 29
+  },
+  {
+    "username": "TacticalPantsGremlin",
+    "personality": "trickster",
+    "avatar": 10
+  },
+  {
+    "username": "ProfessorCrapRocket",
+    "personality": "trickster",
+    "avatar": 23
+  },
+  {
+    "username": "KingToiletDuck",
+    "personality": "chaos",
+    "avatar": 4
+  },
+  {
+    "username": "LadyCrumbBandit",
+    "personality": "schemer",
+    "avatar": 17
+  },
+  {
+    "username": "VelvetArseBiscuit",
+    "personality": "chaos",
+    "avatar": 30
+  },
+  {
+    "username": "DoctorArseBiscuit",
+    "personality": "chaos",
+    "avatar": 11
+  },
+  {
+    "username": "SpicyCrapRocket",
+    "personality": "trickster",
+    "avatar": 24
+  },
+  {
+    "username": "BootlegBogMonster",
+    "personality": "survivor",
+    "avatar": 5
+  },
+  {
+    "username": "FeralGravyGoblin",
+    "personality": "chaos",
+    "avatar": 18
+  },
+  {
+    "username": "CrustyBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 31
+  },
+  {
+    "username": "CaptainBogMonster",
+    "personality": "survivor",
+    "avatar": 12
+  },
+  {
+    "username": "LadyArseBiscuit",
+    "personality": "chaos",
+    "avatar": 25
+  },
+  {
+    "username": "SneakyStinkNugget",
+    "personality": "survivor",
+    "avatar": 6
+  },
+  {
+    "username": "CountessBogMonster",
+    "personality": "survivor",
+    "avatar": 19
+  },
+  {
+    "username": "GlitterChaosHamster",
+    "personality": "bully",
+    "avatar": 0
+  },
+  {
+    "username": "PrivateRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 13
+  },
+  {
+    "username": "BootlegStinkNugget",
+    "personality": "survivor",
+    "avatar": 26
+  },
+  {
+    "username": "LadyTrashPanda",
+    "personality": "trickster",
+    "avatar": 7
+  },
+  {
+    "username": "CountessDumpsterRat",
+    "personality": "bully",
+    "avatar": 20
+  },
+  {
+    "username": "RabidRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 1
+  },
+  {
+    "username": "DeluxeSockGremlin",
+    "personality": "schemer",
+    "avatar": 14
+  },
+  {
+    "username": "CountessPantsGremlin",
+    "personality": "trickster",
+    "avatar": 27
+  },
+  {
+    "username": "DoctorLunchThief",
+    "personality": "chaos",
+    "avatar": 8
+  },
+  {
+    "username": "CaptainArseBiscuit",
+    "personality": "chaos",
+    "avatar": 21
+  },
+  {
+    "username": "ProfessorStinkNugget",
+    "personality": "survivor",
+    "avatar": 2
+  },
+  {
+    "username": "CountPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 15
+  },
+  {
+    "username": "TacticalBurpWizard",
+    "personality": "bully",
+    "avatar": 28
+  },
+  {
+    "username": "DeluxeRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 9
+  },
+  {
+    "username": "CrustyDramaLlama",
+    "personality": "schemer",
+    "avatar": 22
+  },
+  {
+    "username": "KingArseBiscuit",
+    "personality": "chaos",
+    "avatar": 3
+  },
+  {
+    "username": "DiscoDoomNoodle",
+    "personality": "schemer",
+    "avatar": 16
+  },
+  {
+    "username": "DoctorBinJuice",
+    "personality": "survivor",
+    "avatar": 29
+  },
+  {
+    "username": "MajorToiletDuck",
+    "personality": "chaos",
+    "avatar": 10
+  },
+  {
+    "username": "CaptainToiletDuck",
+    "personality": "chaos",
+    "avatar": 23
+  },
+  {
+    "username": "CrustySnotWaffle",
+    "personality": "survivor",
+    "avatar": 4
+  },
+  {
+    "username": "GeneralRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 17
+  },
+  {
+    "username": "DoctorMouldMuffin",
+    "personality": "survivor",
+    "avatar": 30
+  },
+  {
+    "username": "CountessWheezeMachine",
+    "personality": "bully",
+    "avatar": 11
+  },
+  {
+    "username": "PrivateTrashPanda",
+    "personality": "trickster",
+    "avatar": 24
+  },
+  {
+    "username": "MaximumFartGoblin",
+    "personality": "bully",
+    "avatar": 5
+  },
+  {
+    "username": "PrivateBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 18
+  },
+  {
+    "username": "DiscountPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 31
+  },
+  {
+    "username": "LordCrapRocket",
+    "personality": "trickster",
+    "avatar": 12
+  },
+  {
+    "username": "GrumpyBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 25
+  },
+  {
+    "username": "CrustyGutterMuppet",
+    "personality": "trickster",
+    "avatar": 6
+  },
+  {
+    "username": "ChaoticDoomNoodle",
+    "personality": "schemer",
+    "avatar": 19
+  },
+  {
+    "username": "QueenFartGoblin",
+    "personality": "bully",
+    "avatar": 0
+  },
+  {
+    "username": "PrivateFartGoblin",
+    "personality": "bully",
+    "avatar": 13
+  },
+  {
+    "username": "ElectricSnotWaffle",
+    "personality": "survivor",
+    "avatar": 26
+  },
+  {
+    "username": "DoctorRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 7
+  },
+  {
+    "username": "MajorSnotWaffle",
+    "personality": "survivor",
+    "avatar": 20
+  },
+  {
+    "username": "TurboWheezeMachine",
+    "personality": "bully",
+    "avatar": 1
+  },
+  {
+    "username": "VelvetMouldMuffin",
+    "personality": "survivor",
+    "avatar": 14
+  },
+  {
+    "username": "KingLunchThief",
+    "personality": "chaos",
+    "avatar": 27
+  },
+  {
+    "username": "TacticalGravyGoblin",
+    "personality": "chaos",
+    "avatar": 8
+  },
+  {
+    "username": "DuchessLunchThief",
+    "personality": "chaos",
+    "avatar": 21
+  },
+  {
+    "username": "NeonDumpsterRat",
+    "personality": "bully",
+    "avatar": 2
+  },
+  {
+    "username": "TacticalSockGremlin",
+    "personality": "schemer",
+    "avatar": 15
+  },
+  {
+    "username": "SpicyBurpWizard",
+    "personality": "bully",
+    "avatar": 28
+  },
+  {
+    "username": "TacticalDumpsterRat",
+    "personality": "bully",
+    "avatar": 9
+  },
+  {
+    "username": "SaltyTrashPanda",
+    "personality": "trickster",
+    "avatar": 22
+  },
+  {
+    "username": "FeralDramaLlama",
+    "personality": "schemer",
+    "avatar": 3
+  },
+  {
+    "username": "PettyCrapRocket",
+    "personality": "trickster",
+    "avatar": 16
+  },
+  {
+    "username": "DeluxeSnotWaffle",
+    "personality": "survivor",
+    "avatar": 29
+  },
+  {
+    "username": "MaximumLunchThief",
+    "personality": "chaos",
+    "avatar": 10
+  },
+  {
+    "username": "ElectricTrashPanda",
+    "personality": "trickster",
+    "avatar": 23
+  },
+  {
+    "username": "SneakyToiletDuck",
+    "personality": "chaos",
+    "avatar": 4
+  },
+  {
+    "username": "RustyWheezeMachine",
+    "personality": "bully",
+    "avatar": 17
+  },
+  {
+    "username": "PrincessSockGremlin",
+    "personality": "schemer",
+    "avatar": 30
+  },
+  {
+    "username": "ProfessorWheezeMachine",
+    "personality": "bully",
+    "avatar": 11
+  },
+  {
+    "username": "GeneralStinkNugget",
+    "personality": "survivor",
+    "avatar": 24
+  },
+  {
+    "username": "SpicySockGremlin",
+    "personality": "schemer",
+    "avatar": 5
+  },
+  {
+    "username": "BootlegMouldMuffin",
+    "personality": "survivor",
+    "avatar": 18
+  },
+  {
+    "username": "PrincessGutterMuppet",
+    "personality": "trickster",
+    "avatar": 31
+  },
+  {
+    "username": "ChaoticSnotWaffle",
+    "personality": "survivor",
+    "avatar": 12
+  },
+  {
+    "username": "NuclearBogMonster",
+    "personality": "survivor",
+    "avatar": 25
+  },
+  {
+    "username": "PettySockGremlin",
+    "personality": "schemer",
+    "avatar": 6
+  },
+  {
+    "username": "RabidBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 19
+  },
+  {
+    "username": "MajorGravyGoblin",
+    "personality": "chaos",
+    "avatar": 0
+  },
+  {
+    "username": "QueenCrumbBandit",
+    "personality": "schemer",
+    "avatar": 13
+  },
+  {
+    "username": "DiscoBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 26
+  },
+  {
+    "username": "MajorFartGoblin",
+    "personality": "bully",
+    "avatar": 7
+  },
+  {
+    "username": "GlitterArseBiscuit",
+    "personality": "chaos",
+    "avatar": 20
+  },
+  {
+    "username": "LordDoomNoodle",
+    "personality": "schemer",
+    "avatar": 1
+  },
+  {
+    "username": "RustyFartGoblin",
+    "personality": "bully",
+    "avatar": 14
+  },
+  {
+    "username": "LadyBogMonster",
+    "personality": "survivor",
+    "avatar": 27
+  },
+  {
+    "username": "FeralCrumbBandit",
+    "personality": "schemer",
+    "avatar": 8
+  },
+  {
+    "username": "CountLunchThief",
+    "personality": "chaos",
+    "avatar": 21
+  },
+  {
+    "username": "CountDumpsterRat",
+    "personality": "bully",
+    "avatar": 2
+  },
+  {
+    "username": "RustyToiletDuck",
+    "personality": "chaos",
+    "avatar": 15
+  },
+  {
+    "username": "CaptainBurpWizard",
+    "personality": "bully",
+    "avatar": 28
+  },
+  {
+    "username": "FeralWheezeMachine",
+    "personality": "bully",
+    "avatar": 9
+  },
+  {
+    "username": "DramaticFartGoblin",
+    "personality": "bully",
+    "avatar": 22
+  },
+  {
+    "username": "RabidCrapRocket",
+    "personality": "trickster",
+    "avatar": 3
+  },
+  {
+    "username": "CountCrapRocket",
+    "personality": "trickster",
+    "avatar": 16
+  },
+  {
+    "username": "CosmicBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 29
+  },
+  {
+    "username": "DuchessDramaLlama",
+    "personality": "schemer",
+    "avatar": 10
+  },
+  {
+    "username": "TurboToiletDuck",
+    "personality": "chaos",
+    "avatar": 23
+  },
+  {
+    "username": "MajorBinJuice",
+    "personality": "survivor",
+    "avatar": 4
+  },
+  {
+    "username": "SneakyDumpsterRat",
+    "personality": "bully",
+    "avatar": 17
+  },
+  {
+    "username": "LordRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 30
+  },
+  {
+    "username": "PettyGravyGoblin",
+    "personality": "chaos",
+    "avatar": 11
+  },
+  {
+    "username": "GlitterTrashPanda",
+    "personality": "trickster",
+    "avatar": 24
+  },
+  {
+    "username": "VelvetPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 5
+  },
+  {
+    "username": "CountessBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 18
+  },
+  {
+    "username": "SirGravyGoblin",
+    "personality": "chaos",
+    "avatar": 31
+  },
+  {
+    "username": "RabidChaosHamster",
+    "personality": "bully",
+    "avatar": 12
+  },
+  {
+    "username": "GlitterFartGoblin",
+    "personality": "bully",
+    "avatar": 25
+  },
+  {
+    "username": "LordSockGremlin",
+    "personality": "schemer",
+    "avatar": 6
+  },
+  {
+    "username": "RabidToiletDuck",
+    "personality": "chaos",
+    "avatar": 19
+  },
+  {
+    "username": "DeluxeArseBiscuit",
+    "personality": "chaos",
+    "avatar": 0
+  },
+  {
+    "username": "RustyLunchThief",
+    "personality": "chaos",
+    "avatar": 13
+  },
+  {
+    "username": "MaximumBurpWizard",
+    "personality": "bully",
+    "avatar": 26
+  },
+  {
+    "username": "DeluxeGutterMuppet",
+    "personality": "trickster",
+    "avatar": 7
+  },
+  {
+    "username": "CountessChaosHamster",
+    "personality": "bully",
+    "avatar": 20
+  },
+  {
+    "username": "GrumpyBurpWizard",
+    "personality": "bully",
+    "avatar": 1
+  },
+  {
+    "username": "DiscoDumpsterRat",
+    "personality": "bully",
+    "avatar": 14
+  },
+  {
+    "username": "DramaticLunchThief",
+    "personality": "chaos",
+    "avatar": 27
+  },
+  {
+    "username": "ProfessorMouldMuffin",
+    "personality": "survivor",
+    "avatar": 8
+  },
+  {
+    "username": "RabidCrumbBandit",
+    "personality": "schemer",
+    "avatar": 21
+  },
+  {
+    "username": "RabidLunchThief",
+    "personality": "chaos",
+    "avatar": 2
+  },
+  {
+    "username": "GeneralDramaLlama",
+    "personality": "schemer",
+    "avatar": 15
+  },
+  {
+    "username": "CrustyStinkNugget",
+    "personality": "survivor",
+    "avatar": 28
+  },
+  {
+    "username": "SneakySnotWaffle",
+    "personality": "survivor",
+    "avatar": 9
+  },
+  {
+    "username": "MaximumWheezeMachine",
+    "personality": "bully",
+    "avatar": 22
+  },
+  {
+    "username": "RustyCrapRocket",
+    "personality": "trickster",
+    "avatar": 3
+  },
+  {
+    "username": "ProfessorSnotWaffle",
+    "personality": "survivor",
+    "avatar": 16
+  },
+  {
+    "username": "CosmicGutterMuppet",
+    "personality": "trickster",
+    "avatar": 29
+  },
+  {
+    "username": "VelvetRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 10
+  },
+  {
+    "username": "SaltySnotWaffle",
+    "personality": "survivor",
+    "avatar": 23
+  },
+  {
+    "username": "CaptainCrumbBandit",
+    "personality": "schemer",
+    "avatar": 4
+  },
+  {
+    "username": "MaximumBinJuice",
+    "personality": "survivor",
+    "avatar": 17
+  },
+  {
+    "username": "DiscoTrashPanda",
+    "personality": "trickster",
+    "avatar": 30
+  },
+  {
+    "username": "VelvetDramaLlama",
+    "personality": "schemer",
+    "avatar": 11
+  },
+  {
+    "username": "ProfessorLunchThief",
+    "personality": "chaos",
+    "avatar": 24
+  },
+  {
+    "username": "PrincessPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 5
+  },
+  {
+    "username": "TurboTrashPanda",
+    "personality": "trickster",
+    "avatar": 18
+  },
+  {
+    "username": "PrivatePuddleGoblin",
+    "personality": "trickster",
+    "avatar": 31
+  },
+  {
+    "username": "RustyBurpWizard",
+    "personality": "bully",
+    "avatar": 12
+  },
+  {
+    "username": "CountWheezeMachine",
+    "personality": "bully",
+    "avatar": 25
+  },
+  {
+    "username": "DiscountMouldMuffin",
+    "personality": "survivor",
+    "avatar": 6
+  },
+  {
+    "username": "CosmicRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 19
+  },
+  {
+    "username": "BootlegSockGremlin",
+    "personality": "schemer",
+    "avatar": 0
+  },
+  {
+    "username": "QueenArseBiscuit",
+    "personality": "chaos",
+    "avatar": 13
+  },
+  {
+    "username": "CountessStinkNugget",
+    "personality": "survivor",
+    "avatar": 26
+  },
+  {
+    "username": "BootlegPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 7
+  },
+  {
+    "username": "TacticalBinJuice",
+    "personality": "survivor",
+    "avatar": 20
+  },
+  {
+    "username": "QueenChaosHamster",
+    "personality": "bully",
+    "avatar": 1
+  },
+  {
+    "username": "SneakyGravyGoblin",
+    "personality": "chaos",
+    "avatar": 14
+  },
+  {
+    "username": "LordChaosHamster",
+    "personality": "bully",
+    "avatar": 27
+  },
+  {
+    "username": "SirChaosHamster",
+    "personality": "bully",
+    "avatar": 8
+  },
+  {
+    "username": "VelvetChaosHamster",
+    "personality": "bully",
+    "avatar": 21
+  },
+  {
+    "username": "PrivateGravyGoblin",
+    "personality": "chaos",
+    "avatar": 2
+  },
+  {
+    "username": "BootlegArseBiscuit",
+    "personality": "chaos",
+    "avatar": 15
+  },
+  {
+    "username": "TacticalTrashPanda",
+    "personality": "trickster",
+    "avatar": 28
+  },
+  {
+    "username": "SirToiletDuck",
+    "personality": "chaos",
+    "avatar": 9
+  },
+  {
+    "username": "DramaticToiletDuck",
+    "personality": "chaos",
+    "avatar": 22
+  },
+  {
+    "username": "CountGutterMuppet",
+    "personality": "trickster",
+    "avatar": 3
+  },
+  {
+    "username": "SpicyLunchThief",
+    "personality": "chaos",
+    "avatar": 16
+  },
+  {
+    "username": "GrumpyCrumbBandit",
+    "personality": "schemer",
+    "avatar": 29
+  },
+  {
+    "username": "VelvetBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 10
+  },
+  {
+    "username": "RabidArseBiscuit",
+    "personality": "chaos",
+    "avatar": 23
+  },
+  {
+    "username": "PrincessDoomNoodle",
+    "personality": "schemer",
+    "avatar": 4
+  },
+  {
+    "username": "CaptainFartGoblin",
+    "personality": "bully",
+    "avatar": 17
+  },
+  {
+    "username": "SaintTrashPanda",
+    "personality": "trickster",
+    "avatar": 30
+  },
+  {
+    "username": "PrincessMouldMuffin",
+    "personality": "survivor",
+    "avatar": 11
+  },
+  {
+    "username": "GeneralCrumbBandit",
+    "personality": "schemer",
+    "avatar": 24
+  },
+  {
+    "username": "ElectricStinkNugget",
+    "personality": "survivor",
+    "avatar": 5
+  },
+  {
+    "username": "NuclearTrashPanda",
+    "personality": "trickster",
+    "avatar": 18
+  },
+  {
+    "username": "GrumpyBinJuice",
+    "personality": "survivor",
+    "avatar": 31
+  },
+  {
+    "username": "SirLunchThief",
+    "personality": "chaos",
+    "avatar": 12
+  },
+  {
+    "username": "NeonBogMonster",
+    "personality": "survivor",
+    "avatar": 25
+  },
+  {
+    "username": "PrincessSnotWaffle",
+    "personality": "survivor",
+    "avatar": 6
+  },
+  {
+    "username": "DoctorPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 19
+  },
+  {
+    "username": "DramaticTrashPanda",
+    "personality": "trickster",
+    "avatar": 0
+  },
+  {
+    "username": "SneakyPantsGremlin",
+    "personality": "trickster",
+    "avatar": 13
+  },
+  {
+    "username": "ElectricRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 26
+  },
+  {
+    "username": "MajorCrapRocket",
+    "personality": "trickster",
+    "avatar": 7
+  },
+  {
+    "username": "LadyDoomNoodle",
+    "personality": "schemer",
+    "avatar": 20
+  },
+  {
+    "username": "RabidStinkNugget",
+    "personality": "survivor",
+    "avatar": 1
+  },
+  {
+    "username": "GeneralArseBiscuit",
+    "personality": "chaos",
+    "avatar": 14
+  },
+  {
+    "username": "SpicyPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 27
+  },
+  {
+    "username": "CosmicDramaLlama",
+    "personality": "schemer",
+    "avatar": 8
+  },
+  {
+    "username": "MajorWheezeMachine",
+    "personality": "bully",
+    "avatar": 21
+  },
+  {
+    "username": "ProfessorGutterMuppet",
+    "personality": "trickster",
+    "avatar": 2
+  },
+  {
+    "username": "ElectricBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 15
+  },
+  {
+    "username": "PrivatePantsGremlin",
+    "personality": "trickster",
+    "avatar": 28
+  },
+  {
+    "username": "DiscountRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 9
+  },
+  {
+    "username": "MajorPantsGremlin",
+    "personality": "trickster",
+    "avatar": 22
+  },
+  {
+    "username": "PrivateDoomNoodle",
+    "personality": "schemer",
+    "avatar": 3
+  },
+  {
+    "username": "PettyBogMonster",
+    "personality": "survivor",
+    "avatar": 16
+  },
+  {
+    "username": "ElectricLunchThief",
+    "personality": "chaos",
+    "avatar": 29
+  },
+  {
+    "username": "DramaticBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 10
+  },
+  {
+    "username": "ChaoticToiletDuck",
+    "personality": "chaos",
+    "avatar": 23
+  },
+  {
+    "username": "ProfessorFartGoblin",
+    "personality": "bully",
+    "avatar": 4
+  },
+  {
+    "username": "SirCrumbBandit",
+    "personality": "schemer",
+    "avatar": 17
+  },
+  {
+    "username": "ProfessorPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 30
+  },
+  {
+    "username": "QueenToiletDuck",
+    "personality": "chaos",
+    "avatar": 11
+  },
+  {
+    "username": "DiscoSockGremlin",
+    "personality": "schemer",
+    "avatar": 24
+  },
+  {
+    "username": "DiscountWheezeMachine",
+    "personality": "bully",
+    "avatar": 5
+  },
+  {
+    "username": "SpicyArseBiscuit",
+    "personality": "chaos",
+    "avatar": 18
+  },
+  {
+    "username": "ProfessorPantsGremlin",
+    "personality": "trickster",
+    "avatar": 31
+  },
+  {
+    "username": "PrincessDumpsterRat",
+    "personality": "bully",
+    "avatar": 12
+  },
+  {
+    "username": "SaintWheezeMachine",
+    "personality": "bully",
+    "avatar": 25
+  },
+  {
+    "username": "DiscoCrumbBandit",
+    "personality": "schemer",
+    "avatar": 6
+  },
+  {
+    "username": "CountessDramaLlama",
+    "personality": "schemer",
+    "avatar": 19
+  },
+  {
+    "username": "ProfessorCrumbBandit",
+    "personality": "schemer",
+    "avatar": 0
+  },
+  {
+    "username": "CosmicPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 13
+  },
+  {
+    "username": "CosmicPantsGremlin",
+    "personality": "trickster",
+    "avatar": 26
+  },
+  {
+    "username": "CountDramaLlama",
+    "personality": "schemer",
+    "avatar": 7
+  },
+  {
+    "username": "FeralArseBiscuit",
+    "personality": "chaos",
+    "avatar": 20
+  },
+  {
+    "username": "TurboCrumbBandit",
+    "personality": "schemer",
+    "avatar": 1
+  },
+  {
+    "username": "QueenBurpWizard",
+    "personality": "bully",
+    "avatar": 14
+  },
+  {
+    "username": "DoctorPantsGremlin",
+    "personality": "trickster",
+    "avatar": 27
+  },
+  {
+    "username": "ElectricDramaLlama",
+    "personality": "schemer",
+    "avatar": 8
+  },
+  {
+    "username": "NeonFartGoblin",
+    "personality": "bully",
+    "avatar": 21
+  },
+  {
+    "username": "RabidDumpsterRat",
+    "personality": "bully",
+    "avatar": 2
+  },
+  {
+    "username": "TacticalArseBiscuit",
+    "personality": "chaos",
+    "avatar": 15
+  },
+  {
+    "username": "TurboBurpWizard",
+    "personality": "bully",
+    "avatar": 28
+  },
+  {
+    "username": "DiscountDramaLlama",
+    "personality": "schemer",
+    "avatar": 9
+  },
+  {
+    "username": "FeralDoomNoodle",
+    "personality": "schemer",
+    "avatar": 22
+  },
+  {
+    "username": "DoctorGutterMuppet",
+    "personality": "trickster",
+    "avatar": 3
+  },
+  {
+    "username": "NeonSockGremlin",
+    "personality": "schemer",
+    "avatar": 16
+  },
+  {
+    "username": "TacticalWheezeMachine",
+    "personality": "bully",
+    "avatar": 29
+  },
+  {
+    "username": "SpicyRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 10
+  },
+  {
+    "username": "LordBinJuice",
+    "personality": "survivor",
+    "avatar": 23
+  },
+  {
+    "username": "DiscountBinJuice",
+    "personality": "survivor",
+    "avatar": 4
+  },
+  {
+    "username": "VelvetToiletDuck",
+    "personality": "chaos",
+    "avatar": 17
+  },
+  {
+    "username": "CountessGravyGoblin",
+    "personality": "chaos",
+    "avatar": 30
+  },
+  {
+    "username": "ProfessorArseBiscuit",
+    "personality": "chaos",
+    "avatar": 11
+  },
+  {
+    "username": "DiscoSnotWaffle",
+    "personality": "survivor",
+    "avatar": 24
+  },
+  {
+    "username": "BootlegCrumbBandit",
+    "personality": "schemer",
+    "avatar": 5
+  },
+  {
+    "username": "SneakyFartGoblin",
+    "personality": "bully",
+    "avatar": 18
+  },
+  {
+    "username": "ChaoticSockGremlin",
+    "personality": "schemer",
+    "avatar": 31
+  },
+  {
+    "username": "CountessTrashPanda",
+    "personality": "trickster",
+    "avatar": 12
+  },
+  {
+    "username": "SaltyGutterMuppet",
+    "personality": "trickster",
+    "avatar": 25
+  },
+  {
+    "username": "GlitterStinkNugget",
+    "personality": "survivor",
+    "avatar": 6
+  },
+  {
+    "username": "DramaticBogMonster",
+    "personality": "survivor",
+    "avatar": 19
+  },
+  {
+    "username": "RustyBogMonster",
+    "personality": "survivor",
+    "avatar": 0
+  },
+  {
+    "username": "DuchessPantsGremlin",
+    "personality": "trickster",
+    "avatar": 13
+  },
+  {
+    "username": "QueenMouldMuffin",
+    "personality": "survivor",
+    "avatar": 26
+  },
+  {
+    "username": "DeluxeDumpsterRat",
+    "personality": "bully",
+    "avatar": 7
+  },
+  {
+    "username": "DoctorCrapRocket",
+    "personality": "trickster",
+    "avatar": 20
+  },
+  {
+    "username": "CaptainMouldMuffin",
+    "personality": "survivor",
+    "avatar": 1
+  },
+  {
+    "username": "VelvetFartGoblin",
+    "personality": "bully",
+    "avatar": 14
+  },
+  {
+    "username": "SirSnotWaffle",
+    "personality": "survivor",
+    "avatar": 27
+  },
+  {
+    "username": "MajorGutterMuppet",
+    "personality": "trickster",
+    "avatar": 8
+  },
+  {
+    "username": "CosmicDoomNoodle",
+    "personality": "schemer",
+    "avatar": 21
+  },
+  {
+    "username": "GrumpyWheezeMachine",
+    "personality": "bully",
+    "avatar": 2
+  },
+  {
+    "username": "CountessBurpWizard",
+    "personality": "bully",
+    "avatar": 15
+  },
+  {
+    "username": "GlitterRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 28
+  },
+  {
+    "username": "PrivateStinkNugget",
+    "personality": "survivor",
+    "avatar": 9
+  },
+  {
+    "username": "PrivateBurpWizard",
+    "personality": "bully",
+    "avatar": 22
+  },
+  {
+    "username": "PrincessPantsGremlin",
+    "personality": "trickster",
+    "avatar": 3
+  },
+  {
+    "username": "LordLunchThief",
+    "personality": "chaos",
+    "avatar": 16
+  },
+  {
+    "username": "RabidGutterMuppet",
+    "personality": "trickster",
+    "avatar": 29
+  },
+  {
+    "username": "GrumpyDramaLlama",
+    "personality": "schemer",
+    "avatar": 10
+  },
+  {
+    "username": "CaptainChaosHamster",
+    "personality": "bully",
+    "avatar": 23
+  },
+  {
+    "username": "TacticalCrumbBandit",
+    "personality": "schemer",
+    "avatar": 4
+  },
+  {
+    "username": "ProfessorTrashPanda",
+    "personality": "trickster",
+    "avatar": 17
+  },
+  {
+    "username": "SaltyBogMonster",
+    "personality": "survivor",
+    "avatar": 30
+  },
+  {
+    "username": "DramaticPantsGremlin",
+    "personality": "trickster",
+    "avatar": 11
+  },
+  {
+    "username": "SaltyBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 24
+  },
+  {
+    "username": "LordDumpsterRat",
+    "personality": "bully",
+    "avatar": 5
+  },
+  {
+    "username": "DuchessMouldMuffin",
+    "personality": "survivor",
+    "avatar": 18
+  },
+  {
+    "username": "DiscountCrumbBandit",
+    "personality": "schemer",
+    "avatar": 31
+  },
+  {
+    "username": "GeneralBogMonster",
+    "personality": "survivor",
+    "avatar": 12
+  },
+  {
+    "username": "MaximumArseBiscuit",
+    "personality": "chaos",
+    "avatar": 25
+  },
+  {
+    "username": "DramaticBinJuice",
+    "personality": "survivor",
+    "avatar": 6
+  },
+  {
+    "username": "DuchessChaosHamster",
+    "personality": "bully",
+    "avatar": 19
+  },
+  {
+    "username": "DoctorDumpsterRat",
+    "personality": "bully",
+    "avatar": 0
+  },
+  {
+    "username": "LadyPantsGremlin",
+    "personality": "trickster",
+    "avatar": 13
+  },
+  {
+    "username": "LadyStinkNugget",
+    "personality": "survivor",
+    "avatar": 26
+  },
+  {
+    "username": "ChaoticGravyGoblin",
+    "personality": "chaos",
+    "avatar": 7
+  },
+  {
+    "username": "GeneralChaosHamster",
+    "personality": "bully",
+    "avatar": 20
+  },
+  {
+    "username": "MajorArseBiscuit",
+    "personality": "chaos",
+    "avatar": 1
+  },
+  {
+    "username": "LordFartGoblin",
+    "personality": "bully",
+    "avatar": 14
+  },
+  {
+    "username": "FeralBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 27
+  },
+  {
+    "username": "DramaticStinkNugget",
+    "personality": "survivor",
+    "avatar": 8
+  },
+  {
+    "username": "TacticalPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 21
+  },
+  {
+    "username": "CrustyPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 2
+  },
+  {
+    "username": "CosmicMouldMuffin",
+    "personality": "survivor",
+    "avatar": 15
+  },
+  {
+    "username": "DuchessBinJuice",
+    "personality": "survivor",
+    "avatar": 28
+  },
+  {
+    "username": "ChaoticPantsGremlin",
+    "personality": "trickster",
+    "avatar": 9
+  },
+  {
+    "username": "PrivateDumpsterRat",
+    "personality": "bully",
+    "avatar": 22
+  },
+  {
+    "username": "DiscountTrashPanda",
+    "personality": "trickster",
+    "avatar": 3
+  },
+  {
+    "username": "ChaoticFartGoblin",
+    "personality": "bully",
+    "avatar": 16
+  },
+  {
+    "username": "GlitterBurpWizard",
+    "personality": "bully",
+    "avatar": 29
+  },
+  {
+    "username": "BootlegPantsGremlin",
+    "personality": "trickster",
+    "avatar": 10
+  },
+  {
+    "username": "RabidMouldMuffin",
+    "personality": "survivor",
+    "avatar": 23
+  },
+  {
+    "username": "DeluxeFartGoblin",
+    "personality": "bully",
+    "avatar": 4
+  },
+  {
+    "username": "PettyGutterMuppet",
+    "personality": "trickster",
+    "avatar": 17
+  },
+  {
+    "username": "BootlegGravyGoblin",
+    "personality": "chaos",
+    "avatar": 30
+  },
+  {
+    "username": "ProfessorBogMonster",
+    "personality": "survivor",
+    "avatar": 11
+  },
+  {
+    "username": "DiscountBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 24
+  },
+  {
+    "username": "DiscountCrapRocket",
+    "personality": "trickster",
+    "avatar": 5
+  },
+  {
+    "username": "LadySockGremlin",
+    "personality": "schemer",
+    "avatar": 18
+  },
+  {
+    "username": "CosmicBogMonster",
+    "personality": "survivor",
+    "avatar": 31
+  },
+  {
+    "username": "ElectricGravyGoblin",
+    "personality": "chaos",
+    "avatar": 12
+  },
+  {
+    "username": "LadyLunchThief",
+    "personality": "chaos",
+    "avatar": 25
+  },
+  {
+    "username": "RabidWheezeMachine",
+    "personality": "bully",
+    "avatar": 6
+  },
+  {
+    "username": "LadyGutterMuppet",
+    "personality": "trickster",
+    "avatar": 19
+  },
+  {
+    "username": "RabidTrashPanda",
+    "personality": "trickster",
+    "avatar": 0
+  },
+  {
+    "username": "RustyCrumbBandit",
+    "personality": "schemer",
+    "avatar": 13
+  },
+  {
+    "username": "SneakyRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 26
+  },
+  {
+    "username": "KingChaosHamster",
+    "personality": "bully",
+    "avatar": 7
+  },
+  {
+    "username": "SneakyBinJuice",
+    "personality": "survivor",
+    "avatar": 20
+  },
+  {
+    "username": "DoctorSnotWaffle",
+    "personality": "survivor",
+    "avatar": 1
+  },
+  {
+    "username": "FeralPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 14
+  },
+  {
+    "username": "RabidSnotWaffle",
+    "personality": "survivor",
+    "avatar": 27
+  },
+  {
+    "username": "ChaoticMouldMuffin",
+    "personality": "survivor",
+    "avatar": 8
+  },
+  {
+    "username": "CaptainPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 21
+  },
+  {
+    "username": "NeonCrapRocket",
+    "personality": "trickster",
+    "avatar": 2
+  },
+  {
+    "username": "CosmicStinkNugget",
+    "personality": "survivor",
+    "avatar": 15
+  },
+  {
+    "username": "MajorBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 28
+  },
+  {
+    "username": "TurboRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 9
+  },
+  {
+    "username": "ChaoticGutterMuppet",
+    "personality": "trickster",
+    "avatar": 22
+  },
+  {
+    "username": "KingRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 3
+  },
+  {
+    "username": "CrustyArseBiscuit",
+    "personality": "chaos",
+    "avatar": 16
+  },
+  {
+    "username": "CrustyDoomNoodle",
+    "personality": "schemer",
+    "avatar": 29
+  },
+  {
+    "username": "GrumpyBogMonster",
+    "personality": "survivor",
+    "avatar": 10
+  },
+  {
+    "username": "TacticalFartGoblin",
+    "personality": "bully",
+    "avatar": 23
+  },
+  {
+    "username": "CountessCrumbBandit",
+    "personality": "schemer",
+    "avatar": 4
+  },
+  {
+    "username": "SirSockGremlin",
+    "personality": "schemer",
+    "avatar": 17
+  },
+  {
+    "username": "NeonMouldMuffin",
+    "personality": "survivor",
+    "avatar": 30
+  },
+  {
+    "username": "GeneralWheezeMachine",
+    "personality": "bully",
+    "avatar": 11
+  },
+  {
+    "username": "CountRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 24
+  },
+  {
+    "username": "PettyCrumbBandit",
+    "personality": "schemer",
+    "avatar": 5
+  },
+  {
+    "username": "DramaticMouldMuffin",
+    "personality": "survivor",
+    "avatar": 18
+  },
+  {
+    "username": "SaltyRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 31
+  },
+  {
+    "username": "SaltyArseBiscuit",
+    "personality": "chaos",
+    "avatar": 12
+  },
+  {
+    "username": "DoctorChaosHamster",
+    "personality": "bully",
+    "avatar": 25
+  },
+  {
+    "username": "QueenBogMonster",
+    "personality": "survivor",
+    "avatar": 6
+  },
+  {
+    "username": "VelvetGutterMuppet",
+    "personality": "trickster",
+    "avatar": 19
+  },
+  {
+    "username": "NeonStinkNugget",
+    "personality": "survivor",
+    "avatar": 0
+  },
+  {
+    "username": "CosmicSnotWaffle",
+    "personality": "survivor",
+    "avatar": 13
+  },
+  {
+    "username": "DoctorSockGremlin",
+    "personality": "schemer",
+    "avatar": 26
+  },
+  {
+    "username": "PrivateBinJuice",
+    "personality": "survivor",
+    "avatar": 7
+  },
+  {
+    "username": "NeonBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 20
+  },
+  {
+    "username": "LordBogMonster",
+    "personality": "survivor",
+    "avatar": 1
+  },
+  {
+    "username": "CountBogMonster",
+    "personality": "survivor",
+    "avatar": 14
+  },
+  {
+    "username": "SaintCrapRocket",
+    "personality": "trickster",
+    "avatar": 27
+  },
+  {
+    "username": "DeluxeLunchThief",
+    "personality": "chaos",
+    "avatar": 8
+  },
+  {
+    "username": "BootlegCrapRocket",
+    "personality": "trickster",
+    "avatar": 21
+  },
+  {
+    "username": "DuchessDumpsterRat",
+    "personality": "bully",
+    "avatar": 2
+  },
+  {
+    "username": "DramaticDoomNoodle",
+    "personality": "schemer",
+    "avatar": 15
+  },
+  {
+    "username": "TacticalGutterMuppet",
+    "personality": "trickster",
+    "avatar": 28
+  },
+  {
+    "username": "RabidPantsGremlin",
+    "personality": "trickster",
+    "avatar": 9
+  },
+  {
+    "username": "NeonWheezeMachine",
+    "personality": "bully",
+    "avatar": 22
+  },
+  {
+    "username": "KingDumpsterRat",
+    "personality": "bully",
+    "avatar": 3
+  },
+  {
+    "username": "ProfessorRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 16
+  },
+  {
+    "username": "SaintBurpWizard",
+    "personality": "bully",
+    "avatar": 29
+  },
+  {
+    "username": "SpicyMouldMuffin",
+    "personality": "survivor",
+    "avatar": 10
+  },
+  {
+    "username": "TacticalRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 23
+  },
+  {
+    "username": "LadyBurpWizard",
+    "personality": "bully",
+    "avatar": 4
+  },
+  {
+    "username": "MajorSockGremlin",
+    "personality": "schemer",
+    "avatar": 17
+  },
+  {
+    "username": "SaintRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 30
+  },
+  {
+    "username": "VelvetSnotWaffle",
+    "personality": "survivor",
+    "avatar": 11
+  },
+  {
+    "username": "LordGravyGoblin",
+    "personality": "chaos",
+    "avatar": 24
+  },
+  {
+    "username": "DiscoGutterMuppet",
+    "personality": "trickster",
+    "avatar": 5
+  },
+  {
+    "username": "DuchessBurpWizard",
+    "personality": "bully",
+    "avatar": 18
+  },
+  {
+    "username": "PrivateWheezeMachine",
+    "personality": "bully",
+    "avatar": 31
+  },
+  {
+    "username": "DuchessCrumbBandit",
+    "personality": "schemer",
+    "avatar": 12
+  },
+  {
+    "username": "NuclearBurpWizard",
+    "personality": "bully",
+    "avatar": 25
+  },
+  {
+    "username": "CaptainBinJuice",
+    "personality": "survivor",
+    "avatar": 6
+  },
+  {
+    "username": "NuclearPantsGremlin",
+    "personality": "trickster",
+    "avatar": 19
+  },
+  {
+    "username": "LadyRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 0
+  },
+  {
+    "username": "DramaticSockGremlin",
+    "personality": "schemer",
+    "avatar": 13
+  },
+  {
+    "username": "NeonLunchThief",
+    "personality": "chaos",
+    "avatar": 26
+  },
+  {
+    "username": "DiscountBurpWizard",
+    "personality": "bully",
+    "avatar": 7
+  },
+  {
+    "username": "PettyWheezeMachine",
+    "personality": "bully",
+    "avatar": 20
+  },
+  {
+    "username": "CosmicToiletDuck",
+    "personality": "chaos",
+    "avatar": 1
+  },
+  {
+    "username": "LadyBinJuice",
+    "personality": "survivor",
+    "avatar": 14
+  },
+  {
+    "username": "RustySockGremlin",
+    "personality": "schemer",
+    "avatar": 27
+  },
+  {
+    "username": "DramaticDramaLlama",
+    "personality": "schemer",
+    "avatar": 8
+  },
+  {
+    "username": "CountessSockGremlin",
+    "personality": "schemer",
+    "avatar": 21
+  },
+  {
+    "username": "SneakyCrumbBandit",
+    "personality": "schemer",
+    "avatar": 2
+  },
+  {
+    "username": "CaptainGravyGoblin",
+    "personality": "chaos",
+    "avatar": 15
+  },
+  {
+    "username": "GlitterToiletDuck",
+    "personality": "chaos",
+    "avatar": 28
+  },
+  {
+    "username": "DuchessCrapRocket",
+    "personality": "trickster",
+    "avatar": 9
+  },
+  {
+    "username": "CosmicSockGremlin",
+    "personality": "schemer",
+    "avatar": 22
+  },
+  {
+    "username": "SirGutterMuppet",
+    "personality": "trickster",
+    "avatar": 3
+  },
+  {
+    "username": "SaintStinkNugget",
+    "personality": "survivor",
+    "avatar": 16
+  },
+  {
+    "username": "CaptainPantsGremlin",
+    "personality": "trickster",
+    "avatar": 29
+  },
+  {
+    "username": "PettyStinkNugget",
+    "personality": "survivor",
+    "avatar": 10
+  },
+  {
+    "username": "MaximumDramaLlama",
+    "personality": "schemer",
+    "avatar": 23
+  },
+  {
+    "username": "SaintFartGoblin",
+    "personality": "bully",
+    "avatar": 4
+  },
+  {
+    "username": "NuclearStinkNugget",
+    "personality": "survivor",
+    "avatar": 17
+  },
+  {
+    "username": "CountStinkNugget",
+    "personality": "survivor",
+    "avatar": 30
+  },
+  {
+    "username": "GlitterCrapRocket",
+    "personality": "trickster",
+    "avatar": 11
+  },
+  {
+    "username": "GrumpySnotWaffle",
+    "personality": "survivor",
+    "avatar": 24
+  },
+  {
+    "username": "RustyDoomNoodle",
+    "personality": "schemer",
+    "avatar": 5
+  },
+  {
+    "username": "DiscoChaosHamster",
+    "personality": "bully",
+    "avatar": 18
+  },
+  {
+    "username": "CountFartGoblin",
+    "personality": "bully",
+    "avatar": 31
+  },
+  {
+    "username": "RabidDramaLlama",
+    "personality": "schemer",
+    "avatar": 12
+  },
+  {
+    "username": "SaltyToiletDuck",
+    "personality": "chaos",
+    "avatar": 25
+  },
+  {
+    "username": "SaltyBinJuice",
+    "personality": "survivor",
+    "avatar": 6
+  },
+  {
+    "username": "DramaticBurpWizard",
+    "personality": "bully",
+    "avatar": 19
+  },
+  {
+    "username": "ChaoticWheezeMachine",
+    "personality": "bully",
+    "avatar": 0
+  },
+  {
+    "username": "SaltyWheezeMachine",
+    "personality": "bully",
+    "avatar": 13
+  },
+  {
+    "username": "GrumpyMouldMuffin",
+    "personality": "survivor",
+    "avatar": 26
+  },
+  {
+    "username": "CosmicArseBiscuit",
+    "personality": "chaos",
+    "avatar": 7
+  },
+  {
+    "username": "TurboSockGremlin",
+    "personality": "schemer",
+    "avatar": 20
+  },
+  {
+    "username": "MajorLunchThief",
+    "personality": "chaos",
+    "avatar": 1
+  },
+  {
+    "username": "GlitterGutterMuppet",
+    "personality": "trickster",
+    "avatar": 14
+  },
+  {
+    "username": "LordBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 27
+  },
+  {
+    "username": "DeluxeChaosHamster",
+    "personality": "bully",
+    "avatar": 8
+  },
+  {
+    "username": "PrivateMouldMuffin",
+    "personality": "survivor",
+    "avatar": 21
+  },
+  {
+    "username": "PettyBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 2
+  },
+  {
+    "username": "TurboDoomNoodle",
+    "personality": "schemer",
+    "avatar": 15
+  },
+  {
+    "username": "PettyBinJuice",
+    "personality": "survivor",
+    "avatar": 28
+  },
+  {
+    "username": "SaintCrumbBandit",
+    "personality": "schemer",
+    "avatar": 9
+  },
+  {
+    "username": "SaltyFartGoblin",
+    "personality": "bully",
+    "avatar": 22
+  },
+  {
+    "username": "FeralChaosHamster",
+    "personality": "bully",
+    "avatar": 3
+  },
+  {
+    "username": "DoctorBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 16
+  },
+  {
+    "username": "DiscoGravyGoblin",
+    "personality": "chaos",
+    "avatar": 29
+  },
+  {
+    "username": "LordArseBiscuit",
+    "personality": "chaos",
+    "avatar": 10
+  },
+  {
+    "username": "SaltyGravyGoblin",
+    "personality": "chaos",
+    "avatar": 23
+  },
+  {
+    "username": "CrustyChaosHamster",
+    "personality": "bully",
+    "avatar": 4
+  },
+  {
+    "username": "DoctorDramaLlama",
+    "personality": "schemer",
+    "avatar": 17
+  },
+  {
+    "username": "DiscountDoomNoodle",
+    "personality": "schemer",
+    "avatar": 30
+  },
+  {
+    "username": "NuclearToiletDuck",
+    "personality": "chaos",
+    "avatar": 11
+  },
+  {
+    "username": "TacticalLunchThief",
+    "personality": "chaos",
+    "avatar": 24
+  },
+  {
+    "username": "LordMouldMuffin",
+    "personality": "survivor",
+    "avatar": 5
+  },
+  {
+    "username": "SaltyChaosHamster",
+    "personality": "bully",
+    "avatar": 18
+  },
+  {
+    "username": "LadyPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 31
+  },
+  {
+    "username": "DiscountChaosHamster",
+    "personality": "bully",
+    "avatar": 12
+  },
+  {
+    "username": "KingBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 25
+  },
+  {
+    "username": "SirRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 6
+  },
+  {
+    "username": "GlitterDramaLlama",
+    "personality": "schemer",
+    "avatar": 19
+  },
+  {
+    "username": "DramaticGravyGoblin",
+    "personality": "chaos",
+    "avatar": 0
+  },
+  {
+    "username": "SneakyLunchThief",
+    "personality": "chaos",
+    "avatar": 13
+  },
+  {
+    "username": "SneakyBurpWizard",
+    "personality": "bully",
+    "avatar": 26
+  },
+  {
+    "username": "MaximumSockGremlin",
+    "personality": "schemer",
+    "avatar": 7
+  },
+  {
+    "username": "BootlegDumpsterRat",
+    "personality": "bully",
+    "avatar": 20
+  },
+  {
+    "username": "DramaticCrumbBandit",
+    "personality": "schemer",
+    "avatar": 1
+  },
+  {
+    "username": "DiscoDramaLlama",
+    "personality": "schemer",
+    "avatar": 14
+  },
+  {
+    "username": "GlitterCrumbBandit",
+    "personality": "schemer",
+    "avatar": 27
+  },
+  {
+    "username": "DuchessStinkNugget",
+    "personality": "survivor",
+    "avatar": 8
+  },
+  {
+    "username": "SneakyBogMonster",
+    "personality": "survivor",
+    "avatar": 21
+  },
+  {
+    "username": "DeluxeMouldMuffin",
+    "personality": "survivor",
+    "avatar": 2
+  },
+  {
+    "username": "BootlegBurpWizard",
+    "personality": "bully",
+    "avatar": 15
+  },
+  {
+    "username": "PettyMouldMuffin",
+    "personality": "survivor",
+    "avatar": 28
+  },
+  {
+    "username": "PettyArseBiscuit",
+    "personality": "chaos",
+    "avatar": 9
+  },
+  {
+    "username": "CaptainTrashPanda",
+    "personality": "trickster",
+    "avatar": 22
+  },
+  {
+    "username": "MaximumToiletDuck",
+    "personality": "chaos",
+    "avatar": 3
+  },
+  {
+    "username": "GlitterSnotWaffle",
+    "personality": "survivor",
+    "avatar": 16
+  },
+  {
+    "username": "FeralLunchThief",
+    "personality": "chaos",
+    "avatar": 29
+  },
+  {
+    "username": "GeneralGravyGoblin",
+    "personality": "chaos",
+    "avatar": 10
+  },
+  {
+    "username": "ChaoticBogMonster",
+    "personality": "survivor",
+    "avatar": 23
+  },
+  {
+    "username": "SaltyDramaLlama",
+    "personality": "schemer",
+    "avatar": 4
+  },
+  {
+    "username": "TacticalBogMonster",
+    "personality": "survivor",
+    "avatar": 17
+  },
+  {
+    "username": "ProfessorDoomNoodle",
+    "personality": "schemer",
+    "avatar": 30
+  },
+  {
+    "username": "LordStinkNugget",
+    "personality": "survivor",
+    "avatar": 11
+  },
+  {
+    "username": "MajorBogMonster",
+    "personality": "survivor",
+    "avatar": 24
+  },
+  {
+    "username": "CountessGutterMuppet",
+    "personality": "trickster",
+    "avatar": 5
+  },
+  {
+    "username": "LadySnotWaffle",
+    "personality": "survivor",
+    "avatar": 18
+  },
+  {
+    "username": "PettyDumpsterRat",
+    "personality": "bully",
+    "avatar": 31
+  },
+  {
+    "username": "DiscountSnotWaffle",
+    "personality": "survivor",
+    "avatar": 12
+  },
+  {
+    "username": "FeralFartGoblin",
+    "personality": "bully",
+    "avatar": 25
+  },
+  {
+    "username": "GeneralGutterMuppet",
+    "personality": "trickster",
+    "avatar": 6
+  },
+  {
+    "username": "DeluxeToiletDuck",
+    "personality": "chaos",
+    "avatar": 19
+  },
+  {
+    "username": "TacticalSnotWaffle",
+    "personality": "survivor",
+    "avatar": 0
+  },
+  {
+    "username": "LordTrashPanda",
+    "personality": "trickster",
+    "avatar": 13
+  },
+  {
+    "username": "SpicyPantsGremlin",
+    "personality": "trickster",
+    "avatar": 26
+  },
+  {
+    "username": "SneakyBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 7
+  },
+  {
+    "username": "NeonPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 20
+  },
+  {
+    "username": "NeonRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 1
+  },
+  {
+    "username": "CaptainDumpsterRat",
+    "personality": "bully",
+    "avatar": 14
+  },
+  {
+    "username": "MaximumCrapRocket",
+    "personality": "trickster",
+    "avatar": 27
+  },
+  {
+    "username": "BootlegGutterMuppet",
+    "personality": "trickster",
+    "avatar": 8
+  },
+  {
+    "username": "ProfessorToiletDuck",
+    "personality": "chaos",
+    "avatar": 21
+  },
+  {
+    "username": "SaintPantsGremlin",
+    "personality": "trickster",
+    "avatar": 2
+  },
+  {
+    "username": "LordGutterMuppet",
+    "personality": "trickster",
+    "avatar": 15
+  },
+  {
+    "username": "RabidDoomNoodle",
+    "personality": "schemer",
+    "avatar": 28
+  },
+  {
+    "username": "ProfessorBinJuice",
+    "personality": "survivor",
+    "avatar": 9
+  },
+  {
+    "username": "CrustyBurpWizard",
+    "personality": "bully",
+    "avatar": 22
+  },
+  {
+    "username": "TurboBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 3
+  },
+  {
+    "username": "KingBurpWizard",
+    "personality": "bully",
+    "avatar": 16
+  },
+  {
+    "username": "GrumpyDumpsterRat",
+    "personality": "bully",
+    "avatar": 29
+  },
+  {
+    "username": "PettyLunchThief",
+    "personality": "chaos",
+    "avatar": 10
+  },
+  {
+    "username": "CosmicDumpsterRat",
+    "personality": "bully",
+    "avatar": 23
+  },
+  {
+    "username": "DeluxeBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 4
+  },
+  {
+    "username": "VelvetPantsGremlin",
+    "personality": "trickster",
+    "avatar": 17
+  },
+  {
+    "username": "GrumpyTrashPanda",
+    "personality": "trickster",
+    "avatar": 30
+  },
+  {
+    "username": "SaltyMouldMuffin",
+    "personality": "survivor",
+    "avatar": 11
+  },
+  {
+    "username": "ProfessorDramaLlama",
+    "personality": "schemer",
+    "avatar": 24
+  },
+  {
+    "username": "NeonTrashPanda",
+    "personality": "trickster",
+    "avatar": 5
+  },
+  {
+    "username": "VelvetTrashPanda",
+    "personality": "trickster",
+    "avatar": 18
+  },
+  {
+    "username": "SaltyStinkNugget",
+    "personality": "survivor",
+    "avatar": 31
+  },
+  {
+    "username": "CosmicCrapRocket",
+    "personality": "trickster",
+    "avatar": 12
+  },
+  {
+    "username": "CountSnotWaffle",
+    "personality": "survivor",
+    "avatar": 25
+  },
+  {
+    "username": "QueenSockGremlin",
+    "personality": "schemer",
+    "avatar": 6
+  },
+  {
+    "username": "GeneralCrapRocket",
+    "personality": "trickster",
+    "avatar": 19
+  },
+  {
+    "username": "GrumpyLunchThief",
+    "personality": "chaos",
+    "avatar": 0
+  },
+  {
+    "username": "SaintBogMonster",
+    "personality": "survivor",
+    "avatar": 13
+  },
+  {
+    "username": "ChaoticDramaLlama",
+    "personality": "schemer",
+    "avatar": 26
+  },
+  {
+    "username": "NuclearWheezeMachine",
+    "personality": "bully",
+    "avatar": 7
+  },
+  {
+    "username": "MajorRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 20
+  },
+  {
+    "username": "DiscoBinJuice",
+    "personality": "survivor",
+    "avatar": 1
+  },
+  {
+    "username": "CosmicFartGoblin",
+    "personality": "bully",
+    "avatar": 14
+  },
+  {
+    "username": "NeonChaosHamster",
+    "personality": "bully",
+    "avatar": 27
+  },
+  {
+    "username": "MaximumGravyGoblin",
+    "personality": "chaos",
+    "avatar": 8
+  },
+  {
+    "username": "ChaoticDumpsterRat",
+    "personality": "bully",
+    "avatar": 21
+  },
+  {
+    "username": "CrustyTrashPanda",
+    "personality": "trickster",
+    "avatar": 2
+  },
+  {
+    "username": "SpicyBogMonster",
+    "personality": "survivor",
+    "avatar": 15
+  },
+  {
+    "username": "RustySnotWaffle",
+    "personality": "survivor",
+    "avatar": 28
+  },
+  {
+    "username": "KingGutterMuppet",
+    "personality": "trickster",
+    "avatar": 9
+  },
+  {
+    "username": "DeluxeTrashPanda",
+    "personality": "trickster",
+    "avatar": 22
+  },
+  {
+    "username": "KingPantsGremlin",
+    "personality": "trickster",
+    "avatar": 3
+  },
+  {
+    "username": "KingGravyGoblin",
+    "personality": "chaos",
+    "avatar": 16
+  },
+  {
+    "username": "FeralSnotWaffle",
+    "personality": "survivor",
+    "avatar": 29
+  },
+  {
+    "username": "QueenDoomNoodle",
+    "personality": "schemer",
+    "avatar": 10
+  },
+  {
+    "username": "CountessFartGoblin",
+    "personality": "bully",
+    "avatar": 23
+  },
+  {
+    "username": "CountessPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 4
+  },
+  {
+    "username": "SneakyArseBiscuit",
+    "personality": "chaos",
+    "avatar": 17
+  },
+  {
+    "username": "QueenCrapRocket",
+    "personality": "trickster",
+    "avatar": 30
+  },
+  {
+    "username": "ChaoticBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 11
+  },
+  {
+    "username": "GrumpyToiletDuck",
+    "personality": "chaos",
+    "avatar": 24
+  },
+  {
+    "username": "DiscountGravyGoblin",
+    "personality": "chaos",
+    "avatar": 5
+  },
+  {
+    "username": "TurboDramaLlama",
+    "personality": "schemer",
+    "avatar": 18
+  },
+  {
+    "username": "DiscoRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 31
+  },
+  {
+    "username": "MajorChaosHamster",
+    "personality": "bully",
+    "avatar": 12
+  },
+  {
+    "username": "PrincessWheezeMachine",
+    "personality": "bully",
+    "avatar": 25
+  },
+  {
+    "username": "DiscountPantsGremlin",
+    "personality": "trickster",
+    "avatar": 6
+  },
+  {
+    "username": "DiscountLunchThief",
+    "personality": "chaos",
+    "avatar": 19
+  },
+  {
+    "username": "VelvetCrapRocket",
+    "personality": "trickster",
+    "avatar": 0
+  },
+  {
+    "username": "CountessCrapRocket",
+    "personality": "trickster",
+    "avatar": 13
+  },
+  {
+    "username": "RustyPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 26
+  },
+  {
+    "username": "RabidBogMonster",
+    "personality": "survivor",
+    "avatar": 7
+  },
+  {
+    "username": "PrincessTrashPanda",
+    "personality": "trickster",
+    "avatar": 20
+  },
+  {
+    "username": "SaintGutterMuppet",
+    "personality": "trickster",
+    "avatar": 1
+  },
+  {
+    "username": "CaptainSnotWaffle",
+    "personality": "survivor",
+    "avatar": 14
+  },
+  {
+    "username": "NuclearLunchThief",
+    "personality": "chaos",
+    "avatar": 27
+  },
+  {
+    "username": "SaintSnotWaffle",
+    "personality": "survivor",
+    "avatar": 8
+  },
+  {
+    "username": "PrivateBogMonster",
+    "personality": "survivor",
+    "avatar": 21
+  },
+  {
+    "username": "SpicyChaosHamster",
+    "personality": "bully",
+    "avatar": 2
+  },
+  {
+    "username": "VelvetBinJuice",
+    "personality": "survivor",
+    "avatar": 15
+  },
+  {
+    "username": "SaintChaosHamster",
+    "personality": "bully",
+    "avatar": 28
+  },
+  {
+    "username": "RustyDramaLlama",
+    "personality": "schemer",
+    "avatar": 9
+  },
+  {
+    "username": "DeluxeGravyGoblin",
+    "personality": "chaos",
+    "avatar": 22
+  },
+  {
+    "username": "SneakyGutterMuppet",
+    "personality": "trickster",
+    "avatar": 3
+  },
+  {
+    "username": "BootlegFartGoblin",
+    "personality": "bully",
+    "avatar": 16
+  },
+  {
+    "username": "ElectricPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 29
+  },
+  {
+    "username": "PrincessBinJuice",
+    "personality": "survivor",
+    "avatar": 10
+  },
+  {
+    "username": "SpicyTrashPanda",
+    "personality": "trickster",
+    "avatar": 23
+  },
+  {
+    "username": "VelvetLunchThief",
+    "personality": "chaos",
+    "avatar": 4
+  },
+  {
+    "username": "ElectricBogMonster",
+    "personality": "survivor",
+    "avatar": 17
+  },
+  {
+    "username": "RabidGravyGoblin",
+    "personality": "chaos",
+    "avatar": 30
+  },
+  {
+    "username": "CountGravyGoblin",
+    "personality": "chaos",
+    "avatar": 11
+  },
+  {
+    "username": "GrumpyStinkNugget",
+    "personality": "survivor",
+    "avatar": 24
+  },
+  {
+    "username": "BootlegWheezeMachine",
+    "personality": "bully",
+    "avatar": 5
+  },
+  {
+    "username": "MaximumChaosHamster",
+    "personality": "bully",
+    "avatar": 18
+  },
+  {
+    "username": "MajorBurpWizard",
+    "personality": "bully",
+    "avatar": 31
+  },
+  {
+    "username": "CrustyBogMonster",
+    "personality": "survivor",
+    "avatar": 12
+  },
+  {
+    "username": "RabidBurpWizard",
+    "personality": "bully",
+    "avatar": 25
+  },
+  {
+    "username": "RustyChaosHamster",
+    "personality": "bully",
+    "avatar": 6
+  },
+  {
+    "username": "GlitterPantsGremlin",
+    "personality": "trickster",
+    "avatar": 19
+  },
+  {
+    "username": "NeonGravyGoblin",
+    "personality": "chaos",
+    "avatar": 0
+  },
+  {
+    "username": "QueenBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 13
+  },
+  {
+    "username": "LordPantsGremlin",
+    "personality": "trickster",
+    "avatar": 26
+  },
+  {
+    "username": "CrustyGravyGoblin",
+    "personality": "chaos",
+    "avatar": 7
+  },
+  {
+    "username": "ElectricMouldMuffin",
+    "personality": "survivor",
+    "avatar": 20
+  },
+  {
+    "username": "SirDramaLlama",
+    "personality": "schemer",
+    "avatar": 1
+  },
+  {
+    "username": "TacticalStinkNugget",
+    "personality": "survivor",
+    "avatar": 14
+  },
+  {
+    "username": "NuclearArseBiscuit",
+    "personality": "chaos",
+    "avatar": 27
+  },
+  {
+    "username": "SpicyBinJuice",
+    "personality": "survivor",
+    "avatar": 8
+  },
+  {
+    "username": "PettyFartGoblin",
+    "personality": "bully",
+    "avatar": 21
+  },
+  {
+    "username": "CaptainStinkNugget",
+    "personality": "survivor",
+    "avatar": 2
+  },
+  {
+    "username": "GrumpySockGremlin",
+    "personality": "schemer",
+    "avatar": 15
+  },
+  {
+    "username": "FeralPantsGremlin",
+    "personality": "trickster",
+    "avatar": 28
+  },
+  {
+    "username": "DiscountFartGoblin",
+    "personality": "bully",
+    "avatar": 9
+  },
+  {
+    "username": "PrincessCrumbBandit",
+    "personality": "schemer",
+    "avatar": 22
+  },
+  {
+    "username": "TacticalDramaLlama",
+    "personality": "schemer",
+    "avatar": 3
+  },
+  {
+    "username": "QueenTrashPanda",
+    "personality": "trickster",
+    "avatar": 16
+  },
+  {
+    "username": "VelvetSockGremlin",
+    "personality": "schemer",
+    "avatar": 29
+  },
+  {
+    "username": "MaximumDoomNoodle",
+    "personality": "schemer",
+    "avatar": 10
+  },
+  {
+    "username": "LadyFartGoblin",
+    "personality": "bully",
+    "avatar": 23
+  },
+  {
+    "username": "DramaticSnotWaffle",
+    "personality": "survivor",
+    "avatar": 4
+  },
+  {
+    "username": "TurboGutterMuppet",
+    "personality": "trickster",
+    "avatar": 17
+  },
+  {
+    "username": "SaltyDoomNoodle",
+    "personality": "schemer",
+    "avatar": 30
+  },
+  {
+    "username": "DiscountBogMonster",
+    "personality": "survivor",
+    "avatar": 11
+  },
+  {
+    "username": "SirPantsGremlin",
+    "personality": "trickster",
+    "avatar": 24
+  },
+  {
+    "username": "LordBurpWizard",
+    "personality": "bully",
+    "avatar": 5
+  },
+  {
+    "username": "CountSockGremlin",
+    "personality": "schemer",
+    "avatar": 18
+  },
+  {
+    "username": "DiscoBurpWizard",
+    "personality": "bully",
+    "avatar": 31
+  },
+  {
+    "username": "TurboBinJuice",
+    "personality": "survivor",
+    "avatar": 12
+  },
+  {
+    "username": "DuchessSnotWaffle",
+    "personality": "survivor",
+    "avatar": 25
+  },
+  {
+    "username": "NuclearDoomNoodle",
+    "personality": "schemer",
+    "avatar": 6
+  },
+  {
+    "username": "RustyBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 19
+  },
+  {
+    "username": "MajorTrashPanda",
+    "personality": "trickster",
+    "avatar": 0
+  },
+  {
+    "username": "GrumpyDoomNoodle",
+    "personality": "schemer",
+    "avatar": 13
+  },
+  {
+    "username": "CountPantsGremlin",
+    "personality": "trickster",
+    "avatar": 26
+  },
+  {
+    "username": "QueenLunchThief",
+    "personality": "chaos",
+    "avatar": 7
+  },
+  {
+    "username": "GeneralBurpWizard",
+    "personality": "bully",
+    "avatar": 20
+  },
+  {
+    "username": "CountChaosHamster",
+    "personality": "bully",
+    "avatar": 1
+  },
+  {
+    "username": "CosmicGravyGoblin",
+    "personality": "chaos",
+    "avatar": 14
+  },
+  {
+    "username": "QueenGutterMuppet",
+    "personality": "trickster",
+    "avatar": 27
+  },
+  {
+    "username": "SneakyChaosHamster",
+    "personality": "bully",
+    "avatar": 8
+  },
+  {
+    "username": "ChaoticChaosHamster",
+    "personality": "bully",
+    "avatar": 21
+  },
+  {
+    "username": "NuclearPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 2
+  },
+  {
+    "username": "GrumpyRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 15
+  },
+  {
+    "username": "SaintArseBiscuit",
+    "personality": "chaos",
+    "avatar": 28
+  },
+  {
+    "username": "GlitterPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 9
+  },
+  {
+    "username": "GrumpyArseBiscuit",
+    "personality": "chaos",
+    "avatar": 22
+  },
+  {
+    "username": "TacticalToiletDuck",
+    "personality": "chaos",
+    "avatar": 3
+  },
+  {
+    "username": "BootlegChaosHamster",
+    "personality": "bully",
+    "avatar": 16
+  },
+  {
+    "username": "MajorPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 29
+  },
+  {
+    "username": "QueenWheezeMachine",
+    "personality": "bully",
+    "avatar": 10
+  },
+  {
+    "username": "KingCrapRocket",
+    "personality": "trickster",
+    "avatar": 23
+  },
+  {
+    "username": "SneakyTrashPanda",
+    "personality": "trickster",
+    "avatar": 4
+  },
+  {
+    "username": "ElectricDumpsterRat",
+    "personality": "bully",
+    "avatar": 17
+  },
+  {
+    "username": "PrincessBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 30
+  },
+  {
+    "username": "VelvetStinkNugget",
+    "personality": "survivor",
+    "avatar": 11
+  },
+  {
+    "username": "DiscountStinkNugget",
+    "personality": "survivor",
+    "avatar": 24
+  },
+  {
+    "username": "DiscoMouldMuffin",
+    "personality": "survivor",
+    "avatar": 5
+  },
+  {
+    "username": "VelvetBogMonster",
+    "personality": "survivor",
+    "avatar": 18
+  },
+  {
+    "username": "ProfessorGravyGoblin",
+    "personality": "chaos",
+    "avatar": 31
+  },
+  {
+    "username": "GeneralBinJuice",
+    "personality": "survivor",
+    "avatar": 12
+  },
+  {
+    "username": "CountessToiletDuck",
+    "personality": "chaos",
+    "avatar": 25
+  },
+  {
+    "username": "CountCrumbBandit",
+    "personality": "schemer",
+    "avatar": 6
+  },
+  {
+    "username": "MaximumBogMonster",
+    "personality": "survivor",
+    "avatar": 19
+  },
+  {
+    "username": "SneakyWheezeMachine",
+    "personality": "bully",
+    "avatar": 0
+  },
+  {
+    "username": "ProfessorChaosHamster",
+    "personality": "bully",
+    "avatar": 13
+  },
+  {
+    "username": "DeluxeDoomNoodle",
+    "personality": "schemer",
+    "avatar": 26
+  },
+  {
+    "username": "DoctorStinkNugget",
+    "personality": "survivor",
+    "avatar": 7
+  },
+  {
+    "username": "FeralSockGremlin",
+    "personality": "schemer",
+    "avatar": 20
+  },
+  {
+    "username": "CountessSnotWaffle",
+    "personality": "survivor",
+    "avatar": 1
+  },
+  {
+    "username": "TurboMouldMuffin",
+    "personality": "survivor",
+    "avatar": 14
+  },
+  {
+    "username": "QueenPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 27
+  },
+  {
+    "username": "PrincessArseBiscuit",
+    "personality": "chaos",
+    "avatar": 8
+  },
+  {
+    "username": "PrincessBogMonster",
+    "personality": "survivor",
+    "avatar": 21
+  },
+  {
+    "username": "PrincessGravyGoblin",
+    "personality": "chaos",
+    "avatar": 2
+  },
+  {
+    "username": "NeonToiletDuck",
+    "personality": "chaos",
+    "avatar": 15
+  },
+  {
+    "username": "MaximumTrashPanda",
+    "personality": "trickster",
+    "avatar": 28
+  },
+  {
+    "username": "DoctorBogMonster",
+    "personality": "survivor",
+    "avatar": 9
+  },
+  {
+    "username": "DiscoStinkNugget",
+    "personality": "survivor",
+    "avatar": 22
+  },
+  {
+    "username": "DramaticChaosHamster",
+    "personality": "bully",
+    "avatar": 3
+  },
+  {
+    "username": "MajorDumpsterRat",
+    "personality": "bully",
+    "avatar": 16
+  },
+  {
+    "username": "NuclearFartGoblin",
+    "personality": "bully",
+    "avatar": 29
+  },
+  {
+    "username": "ElectricPantsGremlin",
+    "personality": "trickster",
+    "avatar": 10
+  },
+  {
+    "username": "PrivateArseBiscuit",
+    "personality": "chaos",
+    "avatar": 23
+  },
+  {
+    "username": "ChaoticCrapRocket",
+    "personality": "trickster",
+    "avatar": 4
+  },
+  {
+    "username": "ChaoticStinkNugget",
+    "personality": "survivor",
+    "avatar": 17
+  },
+  {
+    "username": "TurboPantsGremlin",
+    "personality": "trickster",
+    "avatar": 30
+  },
+  {
+    "username": "BootlegDoomNoodle",
+    "personality": "schemer",
+    "avatar": 11
+  },
+  {
+    "username": "KingBinJuice",
+    "personality": "survivor",
+    "avatar": 24
+  },
+  {
+    "username": "MajorMouldMuffin",
+    "personality": "survivor",
+    "avatar": 5
+  },
+  {
+    "username": "QueenDramaLlama",
+    "personality": "schemer",
+    "avatar": 18
+  },
+  {
+    "username": "SirArseBiscuit",
+    "personality": "chaos",
+    "avatar": 31
+  },
+  {
+    "username": "PrincessRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 12
+  },
+  {
+    "username": "SirBurpWizard",
+    "personality": "bully",
+    "avatar": 25
+  },
+  {
+    "username": "LordCrumbBandit",
+    "personality": "schemer",
+    "avatar": 6
+  },
+  {
+    "username": "NeonGutterMuppet",
+    "personality": "trickster",
+    "avatar": 19
+  },
+  {
+    "username": "ChaoticCrumbBandit",
+    "personality": "schemer",
+    "avatar": 0
+  },
+  {
+    "username": "CrustyLunchThief",
+    "personality": "chaos",
+    "avatar": 13
+  },
+  {
+    "username": "CosmicCrumbBandit",
+    "personality": "schemer",
+    "avatar": 26
+  },
+  {
+    "username": "SpicyFartGoblin",
+    "personality": "bully",
+    "avatar": 7
+  },
+  {
+    "username": "SneakySockGremlin",
+    "personality": "schemer",
+    "avatar": 20
+  },
+  {
+    "username": "SaintPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 1
+  },
+  {
+    "username": "BootlegDramaLlama",
+    "personality": "schemer",
+    "avatar": 14
+  },
+  {
+    "username": "GeneralPantsGremlin",
+    "personality": "trickster",
+    "avatar": 27
+  },
+  {
+    "username": "NuclearCrapRocket",
+    "personality": "trickster",
+    "avatar": 8
+  },
+  {
+    "username": "GeneralSockGremlin",
+    "personality": "schemer",
+    "avatar": 21
+  },
+  {
+    "username": "DiscoLunchThief",
+    "personality": "chaos",
+    "avatar": 2
+  },
+  {
+    "username": "FeralBurpWizard",
+    "personality": "bully",
+    "avatar": 15
+  },
+  {
+    "username": "SirBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 28
+  },
+  {
+    "username": "CountessDoomNoodle",
+    "personality": "schemer",
+    "avatar": 9
+  },
+  {
+    "username": "GrumpyGutterMuppet",
+    "personality": "trickster",
+    "avatar": 22
+  },
+  {
+    "username": "GeneralDumpsterRat",
+    "personality": "bully",
+    "avatar": 3
+  },
+  {
+    "username": "CrustyPantsGremlin",
+    "personality": "trickster",
+    "avatar": 16
+  },
+  {
+    "username": "CountTrashPanda",
+    "personality": "trickster",
+    "avatar": 29
+  },
+  {
+    "username": "ProfessorSockGremlin",
+    "personality": "schemer",
+    "avatar": 10
+  },
+  {
+    "username": "GeneralToiletDuck",
+    "personality": "chaos",
+    "avatar": 23
+  },
+  {
+    "username": "CountessArseBiscuit",
+    "personality": "chaos",
+    "avatar": 4
+  },
+  {
+    "username": "PrincessToiletDuck",
+    "personality": "chaos",
+    "avatar": 17
+  },
+  {
+    "username": "VelvetGravyGoblin",
+    "personality": "chaos",
+    "avatar": 30
+  },
+  {
+    "username": "DuchessBogMonster",
+    "personality": "survivor",
+    "avatar": 11
+  },
+  {
+    "username": "GeneralFartGoblin",
+    "personality": "bully",
+    "avatar": 24
+  },
+  {
+    "username": "TurboDumpsterRat",
+    "personality": "bully",
+    "avatar": 5
+  },
+  {
+    "username": "CountMouldMuffin",
+    "personality": "survivor",
+    "avatar": 18
+  },
+  {
+    "username": "CosmicBurpWizard",
+    "personality": "bully",
+    "avatar": 31
+  },
+  {
+    "username": "SpicyCrumbBandit",
+    "personality": "schemer",
+    "avatar": 12
+  },
+  {
+    "username": "SaltyPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 25
+  },
+  {
+    "username": "KingWheezeMachine",
+    "personality": "bully",
+    "avatar": 6
+  },
+  {
+    "username": "ProfessorBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 19
+  },
+  {
+    "username": "KingFartGoblin",
+    "personality": "bully",
+    "avatar": 0
+  },
+  {
+    "username": "GeneralDoomNoodle",
+    "personality": "schemer",
+    "avatar": 13
+  },
+  {
+    "username": "BootlegBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 26
+  },
+  {
+    "username": "PettyChaosHamster",
+    "personality": "bully",
+    "avatar": 7
+  },
+  {
+    "username": "DeluxePuddleGoblin",
+    "personality": "trickster",
+    "avatar": 20
+  },
+  {
+    "username": "BootlegTrashPanda",
+    "personality": "trickster",
+    "avatar": 1
+  },
+  {
+    "username": "SpicyDramaLlama",
+    "personality": "schemer",
+    "avatar": 14
+  },
+  {
+    "username": "VelvetCrumbBandit",
+    "personality": "schemer",
+    "avatar": 27
+  },
+  {
+    "username": "DuchessGutterMuppet",
+    "personality": "trickster",
+    "avatar": 8
+  },
+  {
+    "username": "GlitterBogMonster",
+    "personality": "survivor",
+    "avatar": 21
+  },
+  {
+    "username": "GlitterMouldMuffin",
+    "personality": "survivor",
+    "avatar": 2
+  },
+  {
+    "username": "PrivateSockGremlin",
+    "personality": "schemer",
+    "avatar": 15
+  },
+  {
+    "username": "DiscoPantsGremlin",
+    "personality": "trickster",
+    "avatar": 28
+  },
+  {
+    "username": "FeralGutterMuppet",
+    "personality": "trickster",
+    "avatar": 9
+  },
+  {
+    "username": "DuchessBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 22
+  },
+  {
+    "username": "RustyStinkNugget",
+    "personality": "survivor",
+    "avatar": 3
+  },
+  {
+    "username": "PrivateCrapRocket",
+    "personality": "trickster",
+    "avatar": 16
+  },
+  {
+    "username": "MajorDoomNoodle",
+    "personality": "schemer",
+    "avatar": 29
+  },
+  {
+    "username": "DuchessWheezeMachine",
+    "personality": "bully",
+    "avatar": 10
+  },
+  {
+    "username": "TacticalMouldMuffin",
+    "personality": "survivor",
+    "avatar": 23
+  },
+  {
+    "username": "VelvetDumpsterRat",
+    "personality": "bully",
+    "avatar": 4
+  },
+  {
+    "username": "LadyCrapRocket",
+    "personality": "trickster",
+    "avatar": 17
+  },
+  {
+    "username": "GeneralSnotWaffle",
+    "personality": "survivor",
+    "avatar": 30
+  },
+  {
+    "username": "RabidBinJuice",
+    "personality": "survivor",
+    "avatar": 11
+  },
+  {
+    "username": "SneakyPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 24
+  },
+  {
+    "username": "BootlegSnotWaffle",
+    "personality": "survivor",
+    "avatar": 5
+  },
+  {
+    "username": "CountDoomNoodle",
+    "personality": "schemer",
+    "avatar": 18
+  },
+  {
+    "username": "NeonBurpWizard",
+    "personality": "bully",
+    "avatar": 31
+  },
+  {
+    "username": "CosmicWheezeMachine",
+    "personality": "bully",
+    "avatar": 12
+  },
+  {
+    "username": "DuchessTrashPanda",
+    "personality": "trickster",
+    "avatar": 25
+  },
+  {
+    "username": "LordDramaLlama",
+    "personality": "schemer",
+    "avatar": 6
+  },
+  {
+    "username": "CaptainGutterMuppet",
+    "personality": "trickster",
+    "avatar": 19
+  },
+  {
+    "username": "LadyToiletDuck",
+    "personality": "chaos",
+    "avatar": 0
+  },
+  {
+    "username": "DramaticCrapRocket",
+    "personality": "trickster",
+    "avatar": 13
+  },
+  {
+    "username": "NeonDoomNoodle",
+    "personality": "schemer",
+    "avatar": 26
+  },
+  {
+    "username": "RabidFartGoblin",
+    "personality": "bully",
+    "avatar": 7
+  },
+  {
+    "username": "RustyArseBiscuit",
+    "personality": "chaos",
+    "avatar": 20
+  },
+  {
+    "username": "DiscoWheezeMachine",
+    "personality": "bully",
+    "avatar": 1
+  },
+  {
+    "username": "GlitterWheezeMachine",
+    "personality": "bully",
+    "avatar": 14
+  },
+  {
+    "username": "PettyDramaLlama",
+    "personality": "schemer",
+    "avatar": 27
+  },
+  {
+    "username": "DeluxeBinJuice",
+    "personality": "survivor",
+    "avatar": 8
+  },
+  {
+    "username": "DramaticDumpsterRat",
+    "personality": "bully",
+    "avatar": 21
+  },
+  {
+    "username": "TurboStinkNugget",
+    "personality": "survivor",
+    "avatar": 2
+  },
+  {
+    "username": "MaximumDumpsterRat",
+    "personality": "bully",
+    "avatar": 15
+  },
+  {
+    "username": "DuchessDoomNoodle",
+    "personality": "schemer",
+    "avatar": 28
+  },
+  {
+    "username": "ElectricBurpWizard",
+    "personality": "bully",
+    "avatar": 9
+  },
+  {
+    "username": "GlitterLunchThief",
+    "personality": "chaos",
+    "avatar": 22
+  },
+  {
+    "username": "CosmicChaosHamster",
+    "personality": "bully",
+    "avatar": 3
+  },
+  {
+    "username": "PrivateDramaLlama",
+    "personality": "schemer",
+    "avatar": 16
+  },
+  {
+    "username": "GlitterBinJuice",
+    "personality": "survivor",
+    "avatar": 29
+  },
+  {
+    "username": "TacticalDoomNoodle",
+    "personality": "schemer",
+    "avatar": 10
+  },
+  {
+    "username": "PettyPantsGremlin",
+    "personality": "trickster",
+    "avatar": 23
+  },
+  {
+    "username": "DoctorGravyGoblin",
+    "personality": "chaos",
+    "avatar": 4
+  },
+  {
+    "username": "DramaticGutterMuppet",
+    "personality": "trickster",
+    "avatar": 17
+  },
+  {
+    "username": "DuchessRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 30
+  },
+  {
+    "username": "PettyToiletDuck",
+    "personality": "chaos",
+    "avatar": 11
+  },
+  {
+    "username": "PettyPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 24
+  },
+  {
+    "username": "CrustyDumpsterRat",
+    "personality": "bully",
+    "avatar": 5
+  },
+  {
+    "username": "MaximumSnotWaffle",
+    "personality": "survivor",
+    "avatar": 18
+  },
+  {
+    "username": "CrustyToiletDuck",
+    "personality": "chaos",
+    "avatar": 31
+  },
+  {
+    "username": "LordSnotWaffle",
+    "personality": "survivor",
+    "avatar": 12
+  },
+  {
+    "username": "DuchessPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 25
+  },
+  {
+    "username": "CrustyMouldMuffin",
+    "personality": "survivor",
+    "avatar": 6
+  },
+  {
+    "username": "FeralMouldMuffin",
+    "personality": "survivor",
+    "avatar": 19
+  },
+  {
+    "username": "DiscountGutterMuppet",
+    "personality": "trickster",
+    "avatar": 0
+  },
+  {
+    "username": "TurboFartGoblin",
+    "personality": "bully",
+    "avatar": 13
+  },
+  {
+    "username": "RustyGutterMuppet",
+    "personality": "trickster",
+    "avatar": 26
+  },
+  {
+    "username": "SirDumpsterRat",
+    "personality": "bully",
+    "avatar": 7
+  },
+  {
+    "username": "GeneralPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 20
+  },
+  {
+    "username": "NuclearBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 1
+  },
+  {
+    "username": "LordPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 14
+  },
+  {
+    "username": "TurboSnotWaffle",
+    "personality": "survivor",
+    "avatar": 27
+  },
+  {
+    "username": "SaintGravyGoblin",
+    "personality": "chaos",
+    "avatar": 8
+  },
+  {
+    "username": "SpicyDoomNoodle",
+    "personality": "schemer",
+    "avatar": 21
+  },
+  {
+    "username": "PrincessDramaLlama",
+    "personality": "schemer",
+    "avatar": 2
+  },
+  {
+    "username": "ChaoticBinJuice",
+    "personality": "survivor",
+    "avatar": 15
+  },
+  {
+    "username": "NuclearCrumbBandit",
+    "personality": "schemer",
+    "avatar": 28
+  },
+  {
+    "username": "ElectricCrapRocket",
+    "personality": "trickster",
+    "avatar": 9
+  },
+  {
+    "username": "QueenPantsGremlin",
+    "personality": "trickster",
+    "avatar": 22
+  },
+  {
+    "username": "LadyGravyGoblin",
+    "personality": "chaos",
+    "avatar": 3
+  },
+  {
+    "username": "CountessRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 16
+  },
+  {
+    "username": "DoctorCrumbBandit",
+    "personality": "schemer",
+    "avatar": 29
+  },
+  {
+    "username": "NeonSnotWaffle",
+    "personality": "survivor",
+    "avatar": 10
+  },
+  {
+    "username": "CosmicLunchThief",
+    "personality": "chaos",
+    "avatar": 23
+  },
+  {
+    "username": "BootlegToiletDuck",
+    "personality": "chaos",
+    "avatar": 4
+  },
+  {
+    "username": "SpicyBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 17
+  },
+  {
+    "username": "KingDramaLlama",
+    "personality": "schemer",
+    "avatar": 30
+  },
+  {
+    "username": "CountArseBiscuit",
+    "personality": "chaos",
+    "avatar": 11
+  },
+  {
+    "username": "ElectricSockGremlin",
+    "personality": "schemer",
+    "avatar": 24
+  },
+  {
+    "username": "CountToiletDuck",
+    "personality": "chaos",
+    "avatar": 5
+  },
+  {
+    "username": "SirPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 18
+  },
+  {
+    "username": "KingMouldMuffin",
+    "personality": "survivor",
+    "avatar": 31
+  },
+  {
+    "username": "NuclearSnotWaffle",
+    "personality": "survivor",
+    "avatar": 12
+  },
+  {
+    "username": "DiscoCrapRocket",
+    "personality": "trickster",
+    "avatar": 25
+  },
+  {
+    "username": "DiscoBogMonster",
+    "personality": "survivor",
+    "avatar": 6
+  },
+  {
+    "username": "ElectricBinJuice",
+    "personality": "survivor",
+    "avatar": 19
+  },
+  {
+    "username": "PrivateCrumbBandit",
+    "personality": "schemer",
+    "avatar": 0
+  },
+  {
+    "username": "CountessLunchThief",
+    "personality": "chaos",
+    "avatar": 13
+  },
+  {
+    "username": "MaximumMouldMuffin",
+    "personality": "survivor",
+    "avatar": 26
+  },
+  {
+    "username": "CosmicTrashPanda",
+    "personality": "trickster",
+    "avatar": 7
+  },
+  {
+    "username": "SneakyDoomNoodle",
+    "personality": "schemer",
+    "avatar": 20
+  },
+  {
+    "username": "KingSockGremlin",
+    "personality": "schemer",
+    "avatar": 1
+  },
+  {
+    "username": "LordToiletDuck",
+    "personality": "chaos",
+    "avatar": 14
+  },
+  {
+    "username": "LadyChaosHamster",
+    "personality": "bully",
+    "avatar": 27
+  },
+  {
+    "username": "NuclearDramaLlama",
+    "personality": "schemer",
+    "avatar": 8
+  },
+  {
+    "username": "NuclearBinJuice",
+    "personality": "survivor",
+    "avatar": 21
+  },
+  {
+    "username": "BootlegRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 2
+  },
+  {
+    "username": "DeluxeBurpWizard",
+    "personality": "bully",
+    "avatar": 15
+  },
+  {
+    "username": "PrivateToiletDuck",
+    "personality": "chaos",
+    "avatar": 28
+  },
+  {
+    "username": "SpicyToiletDuck",
+    "personality": "chaos",
+    "avatar": 9
+  },
+  {
+    "username": "CrustyRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 22
+  },
+  {
+    "username": "DiscoFartGoblin",
+    "personality": "bully",
+    "avatar": 3
+  },
+  {
+    "username": "KingCrumbBandit",
+    "personality": "schemer",
+    "avatar": 16
+  },
+  {
+    "username": "CaptainDoomNoodle",
+    "personality": "schemer",
+    "avatar": 29
+  },
+  {
+    "username": "DoctorWheezeMachine",
+    "personality": "bully",
+    "avatar": 10
+  },
+  {
+    "username": "PrincessStinkNugget",
+    "personality": "survivor",
+    "avatar": 23
+  },
+  {
+    "username": "PrincessLunchThief",
+    "personality": "chaos",
+    "avatar": 4
+  },
+  {
+    "username": "SaltyDumpsterRat",
+    "personality": "bully",
+    "avatar": 17
+  },
+  {
+    "username": "SaintToiletDuck",
+    "personality": "chaos",
+    "avatar": 30
+  },
+  {
+    "username": "PrivateLunchThief",
+    "personality": "chaos",
+    "avatar": 11
+  },
+  {
+    "username": "ElectricChaosHamster",
+    "personality": "bully",
+    "avatar": 24
+  },
+  {
+    "username": "SaintMouldMuffin",
+    "personality": "survivor",
+    "avatar": 5
+  },
+  {
+    "username": "PettyTrashPanda",
+    "personality": "trickster",
+    "avatar": 18
+  },
+  {
+    "username": "PrincessChaosHamster",
+    "personality": "bully",
+    "avatar": 31
+  },
+  {
+    "username": "SaintSockGremlin",
+    "personality": "schemer",
+    "avatar": 12
+  },
+  {
+    "username": "RustyTrashPanda",
+    "personality": "trickster",
+    "avatar": 25
+  },
+  {
+    "username": "FeralBogMonster",
+    "personality": "survivor",
+    "avatar": 6
+  },
+  {
+    "username": "PrivateChaosHamster",
+    "personality": "bully",
+    "avatar": 19
+  },
+  {
+    "username": "ChaoticArseBiscuit",
+    "personality": "chaos",
+    "avatar": 0
+  },
+  {
+    "username": "DramaticWheezeMachine",
+    "personality": "bully",
+    "avatar": 13
+  },
+  {
+    "username": "SaltySockGremlin",
+    "personality": "schemer",
+    "avatar": 26
+  },
+  {
+    "username": "KingStinkNugget",
+    "personality": "survivor",
+    "avatar": 7
+  },
+  {
+    "username": "SpicyGutterMuppet",
+    "personality": "trickster",
+    "avatar": 20
+  },
+  {
+    "username": "TurboChaosHamster",
+    "personality": "bully",
+    "avatar": 1
+  },
+  {
+    "username": "PrincessCrapRocket",
+    "personality": "trickster",
+    "avatar": 14
+  },
+  {
+    "username": "RabidSockGremlin",
+    "personality": "schemer",
+    "avatar": 27
+  },
+  {
+    "username": "ChaoticLunchThief",
+    "personality": "chaos",
+    "avatar": 8
+  },
+  {
+    "username": "MajorDramaLlama",
+    "personality": "schemer",
+    "avatar": 21
+  },
+  {
+    "username": "NuclearDumpsterRat",
+    "personality": "bully",
+    "avatar": 2
+  },
+  {
+    "username": "GlitterBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 15
+  },
+  {
+    "username": "DiscoPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 28
+  },
+  {
+    "username": "GrumpyChaosHamster",
+    "personality": "bully",
+    "avatar": 9
+  },
+  {
+    "username": "SpicyStinkNugget",
+    "personality": "survivor",
+    "avatar": 22
+  },
+  {
+    "username": "KingSnotWaffle",
+    "personality": "survivor",
+    "avatar": 3
+  },
+  {
+    "username": "CountBurpWizard",
+    "personality": "bully",
+    "avatar": 16
+  },
+  {
+    "username": "ElectricToiletDuck",
+    "personality": "chaos",
+    "avatar": 29
+  },
+  {
+    "username": "CountessBinJuice",
+    "personality": "survivor",
+    "avatar": 10
+  },
+  {
+    "username": "SpicyDumpsterRat",
+    "personality": "bully",
+    "avatar": 23
+  },
+  {
+    "username": "PettySnotWaffle",
+    "personality": "survivor",
+    "avatar": 4
+  },
+  {
+    "username": "CrustyCrapRocket",
+    "personality": "trickster",
+    "avatar": 17
+  },
+  {
+    "username": "QueenBinJuice",
+    "personality": "survivor",
+    "avatar": 30
+  },
+  {
+    "username": "GlitterDoomNoodle",
+    "personality": "schemer",
+    "avatar": 11
+  },
+  {
+    "username": "GrumpyCrapRocket",
+    "personality": "trickster",
+    "avatar": 24
+  },
+  {
+    "username": "TurboPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 5
+  },
+  {
+    "username": "NuclearRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 18
+  },
+  {
+    "username": "DoctorToiletDuck",
+    "personality": "chaos",
+    "avatar": 31
+  },
+  {
+    "username": "CaptainLunchThief",
+    "personality": "chaos",
+    "avatar": 12
+  },
+  {
+    "username": "QueenGravyGoblin",
+    "personality": "chaos",
+    "avatar": 25
+  },
+  {
+    "username": "SneakyMouldMuffin",
+    "personality": "survivor",
+    "avatar": 6
+  },
+  {
+    "username": "SirMouldMuffin",
+    "personality": "survivor",
+    "avatar": 19
+  },
+  {
+    "username": "SaintDumpsterRat",
+    "personality": "bully",
+    "avatar": 0
+  },
+  {
+    "username": "DeluxeStinkNugget",
+    "personality": "survivor",
+    "avatar": 13
+  },
+  {
+    "username": "ElectricFartGoblin",
+    "personality": "bully",
+    "avatar": 26
+  },
+  {
+    "username": "DramaticPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 7
+  },
+  {
+    "username": "SaintBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 20
+  },
+  {
+    "username": "CrustyFartGoblin",
+    "personality": "bully",
+    "avatar": 1
+  },
+  {
+    "username": "NeonPantsGremlin",
+    "personality": "trickster",
+    "avatar": 14
+  },
+  {
+    "username": "MajorStinkNugget",
+    "personality": "survivor",
+    "avatar": 27
+  },
+  {
+    "username": "CountessMouldMuffin",
+    "personality": "survivor",
+    "avatar": 8
+  },
+  {
+    "username": "PrincessBurpWizard",
+    "personality": "bully",
+    "avatar": 21
+  },
+  {
+    "username": "TurboGravyGoblin",
+    "personality": "chaos",
+    "avatar": 2
+  },
+  {
+    "username": "NuclearGravyGoblin",
+    "personality": "chaos",
+    "avatar": 15
+  },
+  {
+    "username": "ElectricDoomNoodle",
+    "personality": "schemer",
+    "avatar": 28
+  },
+  {
+    "username": "GeneralLunchThief",
+    "personality": "chaos",
+    "avatar": 9
+  },
+  {
+    "username": "MaximumRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 22
+  },
+  {
+    "username": "GeneralTrashPanda",
+    "personality": "trickster",
+    "avatar": 3
+  },
+  {
+    "username": "NeonBinJuice",
+    "personality": "survivor",
+    "avatar": 16
+  },
+  {
+    "username": "TurboCrapRocket",
+    "personality": "trickster",
+    "avatar": 29
+  },
+  {
+    "username": "MaximumCrumbBandit",
+    "personality": "schemer",
+    "avatar": 10
+  },
+  {
+    "username": "DoctorFartGoblin",
+    "personality": "bully",
+    "avatar": 23
+  },
+  {
+    "username": "DeluxeCrapRocket",
+    "personality": "trickster",
+    "avatar": 4
+  },
+  {
+    "username": "SirCrapRocket",
+    "personality": "trickster",
+    "avatar": 17
+  },
+  {
+    "username": "FeralCrapRocket",
+    "personality": "trickster",
+    "avatar": 30
+  },
+  {
+    "username": "RustyRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 11
+  },
+  {
+    "username": "NuclearGutterMuppet",
+    "personality": "trickster",
+    "avatar": 24
+  },
+  {
+    "username": "VelvetWheezeMachine",
+    "personality": "bully",
+    "avatar": 5
+  },
+  {
+    "username": "SaltyCrapRocket",
+    "personality": "trickster",
+    "avatar": 18
+  },
+  {
+    "username": "CrustyBinJuice",
+    "personality": "survivor",
+    "avatar": 31
+  },
+  {
+    "username": "ElectricArseBiscuit",
+    "personality": "chaos",
+    "avatar": 12
+  },
+  {
+    "username": "LordWheezeMachine",
+    "personality": "bully",
+    "avatar": 25
+  },
+  {
+    "username": "SneakyDramaLlama",
+    "personality": "schemer",
+    "avatar": 6
+  },
+  {
+    "username": "DeluxeBogMonster",
+    "personality": "survivor",
+    "avatar": 19
+  },
+  {
+    "username": "CrustyWheezeMachine",
+    "personality": "bully",
+    "avatar": 0
+  },
+  {
+    "username": "DoctorDoomNoodle",
+    "personality": "schemer",
+    "avatar": 13
+  },
+  {
+    "username": "CosmicBinJuice",
+    "personality": "survivor",
+    "avatar": 26
+  },
+  {
+    "username": "PrivateGutterMuppet",
+    "personality": "trickster",
+    "avatar": 7
+  },
+  {
+    "username": "SirBogMonster",
+    "personality": "survivor",
+    "avatar": 20
+  },
+  {
+    "username": "FeralDumpsterRat",
+    "personality": "bully",
+    "avatar": 1
+  },
+  {
+    "username": "PrincessFartGoblin",
+    "personality": "bully",
+    "avatar": 14
+  },
+  {
+    "username": "SirTrashPanda",
+    "personality": "trickster",
+    "avatar": 27
+  },
+  {
+    "username": "CaptainSockGremlin",
+    "personality": "schemer",
+    "avatar": 8
+  },
+  {
+    "username": "TurboBogMonster",
+    "personality": "survivor",
+    "avatar": 21
+  },
+  {
+    "username": "CrustySockGremlin",
+    "personality": "schemer",
+    "avatar": 2
+  },
+  {
+    "username": "DiscountArseBiscuit",
+    "personality": "chaos",
+    "avatar": 15
+  },
+  {
+    "username": "KingBogMonster",
+    "personality": "survivor",
+    "avatar": 28
+  },
+  {
+    "username": "DoctorTrashPanda",
+    "personality": "trickster",
+    "avatar": 9
+  },
+  {
+    "username": "SaintDoomNoodle",
+    "personality": "schemer",
+    "avatar": 22
+  },
+  {
+    "username": "RustyBinJuice",
+    "personality": "survivor",
+    "avatar": 3
+  },
+  {
+    "username": "SirBinJuice",
+    "personality": "survivor",
+    "avatar": 16
+  },
+  {
+    "username": "LadyDumpsterRat",
+    "personality": "bully",
+    "avatar": 29
+  },
+  {
+    "username": "CaptainWheezeMachine",
+    "personality": "bully",
+    "avatar": 10
+  },
+  {
+    "username": "LadyBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 23
+  },
+  {
+    "username": "TurboArseBiscuit",
+    "personality": "chaos",
+    "avatar": 4
+  },
+  {
+    "username": "SpicyWheezeMachine",
+    "personality": "bully",
+    "avatar": 17
+  },
+  {
+    "username": "SaltyBurpWizard",
+    "personality": "bully",
+    "avatar": 30
+  },
+  {
+    "username": "MaximumGutterMuppet",
+    "personality": "trickster",
+    "avatar": 11
+  },
+  {
+    "username": "PrivateSnotWaffle",
+    "personality": "survivor",
+    "avatar": 24
+  },
+  {
+    "username": "FeralToiletDuck",
+    "personality": "chaos",
+    "avatar": 5
+  },
+  {
+    "username": "LadyDramaLlama",
+    "personality": "schemer",
+    "avatar": 18
+  },
+  {
+    "username": "DiscountDumpsterRat",
+    "personality": "bully",
+    "avatar": 31
+  },
+  {
+    "username": "DuchessToiletDuck",
+    "personality": "chaos",
+    "avatar": 12
+  },
+  {
+    "username": "ElectricGutterMuppet",
+    "personality": "trickster",
+    "avatar": 25
+  },
+  {
+    "username": "CaptainBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 6
+  },
+  {
+    "username": "BootlegLunchThief",
+    "personality": "chaos",
+    "avatar": 19
+  },
+  {
+    "username": "MaximumBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 0
+  },
+  {
+    "username": "GlitterSockGremlin",
+    "personality": "schemer",
+    "avatar": 13
+  },
+  {
+    "username": "SaintBinJuice",
+    "personality": "survivor",
+    "avatar": 26
+  },
+  {
+    "username": "KingTrashPanda",
+    "personality": "trickster",
+    "avatar": 7
+  },
+  {
+    "username": "QueenSnotWaffle",
+    "personality": "survivor",
+    "avatar": 20
+  },
+  {
+    "username": "VelvetDoomNoodle",
+    "personality": "schemer",
+    "avatar": 1
+  },
+  {
+    "username": "GeneralMouldMuffin",
+    "personality": "survivor",
+    "avatar": 14
+  },
+  {
+    "username": "DuchessSockGremlin",
+    "personality": "schemer",
+    "avatar": 27
+  },
+  {
+    "username": "DiscoArseBiscuit",
+    "personality": "chaos",
+    "avatar": 8
+  },
+  {
+    "username": "NeonCrumbBandit",
+    "personality": "schemer",
+    "avatar": 21
+  },
+  {
+    "username": "MajorCrumbBandit",
+    "personality": "schemer",
+    "avatar": 2
+  },
+  {
+    "username": "SirFartGoblin",
+    "personality": "bully",
+    "avatar": 15
+  },
+  {
+    "username": "RustyGravyGoblin",
+    "personality": "chaos",
+    "avatar": 28
+  },
+  {
+    "username": "KingDoomNoodle",
+    "personality": "schemer",
+    "avatar": 9
+  },
+  {
+    "username": "DramaticArseBiscuit",
+    "personality": "chaos",
+    "avatar": 22
+  },
+  {
+    "username": "SaltyPantsGremlin",
+    "personality": "trickster",
+    "avatar": 3
+  },
+  {
+    "username": "LadyWheezeMachine",
+    "personality": "bully",
+    "avatar": 16
+  },
+  {
+    "username": "BootlegBinJuice",
+    "personality": "survivor",
+    "avatar": 29
+  },
+  {
+    "username": "GrumpyPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 10
+  },
+  {
+    "username": "GlitterGravyGoblin",
+    "personality": "chaos",
+    "avatar": 23
+  },
+  {
+    "username": "DiscountToiletDuck",
+    "personality": "chaos",
+    "avatar": 4
+  },
+  {
+    "username": "PettyRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 17
+  },
+  {
+    "username": "DoctorBurpWizard",
+    "personality": "bully",
+    "avatar": 30
+  },
+  {
+    "username": "CaptainDramaLlama",
+    "personality": "schemer",
+    "avatar": 11
+  },
+  {
+    "username": "MaximumPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 24
+  },
+  {
+    "username": "DuchessGravyGoblin",
+    "personality": "chaos",
+    "avatar": 5
+  },
+  {
+    "username": "QueenRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 18
+  },
+  {
+    "username": "NeonArseBiscuit",
+    "personality": "chaos",
+    "avatar": 31
+  },
+  {
+    "username": "GrumpyGravyGoblin",
+    "personality": "chaos",
+    "avatar": 12
+  },
+  {
+    "username": "SpicySnotWaffle",
+    "personality": "survivor",
+    "avatar": 25
+  },
+  {
+    "username": "FeralTrashPanda",
+    "personality": "trickster",
+    "avatar": 6
+  },
+  {
+    "username": "SpicyGravyGoblin",
+    "personality": "chaos",
+    "avatar": 19
+  },
+  {
+    "username": "TurboLunchThief",
+    "personality": "chaos",
+    "avatar": 0
+  },
+  {
+    "username": "NuclearChaosHamster",
+    "personality": "bully",
+    "avatar": 13
+  },
+  {
+    "username": "DiscountSockGremlin",
+    "personality": "schemer",
+    "avatar": 26
+  },
+  {
+    "username": "DeluxeCrumbBandit",
+    "personality": "schemer",
+    "avatar": 7
+  },
+  {
+    "username": "PettyDoomNoodle",
+    "personality": "schemer",
+    "avatar": 20
+  },
+  {
+    "username": "KingPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 1
+  },
+  {
+    "username": "CaptainCrapRocket",
+    "personality": "trickster",
+    "avatar": 14
+  },
+  {
+    "username": "MaximumStinkNugget",
+    "personality": "survivor",
+    "avatar": 27
+  },
+  {
+    "username": "DiscoToiletDuck",
+    "personality": "chaos",
+    "avatar": 8
+  },
+  {
+    "username": "RustyDumpsterRat",
+    "personality": "bully",
+    "avatar": 21
+  },
+  {
+    "username": "CountBinJuice",
+    "personality": "survivor",
+    "avatar": 2
+  },
+  {
+    "username": "GeneralBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 15
+  },
+  {
+    "username": "PettyBurpWizard",
+    "personality": "bully",
+    "avatar": 28
+  },
+  {
+    "username": "SneakyCrapRocket",
+    "personality": "trickster",
+    "avatar": 9
+  },
+  {
+    "username": "FeralRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 22
+  },
+  {
+    "username": "RustyMouldMuffin",
+    "personality": "survivor",
+    "avatar": 3
+  },
+  {
+    "username": "SirDoomNoodle",
+    "personality": "schemer",
+    "avatar": 16
+  },
+  {
+    "username": "FeralStinkNugget",
+    "personality": "survivor",
+    "avatar": 29
+  },
+  {
+    "username": "ElectricCrumbBandit",
+    "personality": "schemer",
+    "avatar": 10
+  },
+  {
+    "username": "ElectricWheezeMachine",
+    "personality": "bully",
+    "avatar": 23
+  },
+  {
+    "username": "QueenStinkNugget",
+    "personality": "survivor",
+    "avatar": 4
+  },
+  {
+    "username": "SaintDramaLlama",
+    "personality": "schemer",
+    "avatar": 17
+  },
+  {
+    "username": "DramaticRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 30
+  },
+  {
+    "username": "ChaoticRubbishRaccoon",
+    "personality": "chaos",
+    "avatar": 11
+  },
+  {
+    "username": "SirStinkNugget",
+    "personality": "survivor",
+    "avatar": 24
+  },
+  {
+    "username": "FeralBinJuice",
+    "personality": "survivor",
+    "avatar": 5
+  },
+  {
+    "username": "SaltyLunchThief",
+    "personality": "chaos",
+    "avatar": 18
+  },
+  {
+    "username": "QueenDumpsterRat",
+    "personality": "bully",
+    "avatar": 31
+  },
+  {
+    "username": "DeluxeWheezeMachine",
+    "personality": "bully",
+    "avatar": 12
+  },
+  {
+    "username": "GrumpyPantsGremlin",
+    "personality": "trickster",
+    "avatar": 25
+  },
+  {
+    "username": "ProfessorDumpsterRat",
+    "personality": "bully",
+    "avatar": 6
+  },
+  {
+    "username": "NuclearMouldMuffin",
+    "personality": "survivor",
+    "avatar": 19
+  },
+  {
+    "username": "TacticalCrapRocket",
+    "personality": "trickster",
+    "avatar": 0
+  },
+  {
+    "username": "ChaoticBurpWizard",
+    "personality": "bully",
+    "avatar": 13
+  },
+  {
+    "username": "DeluxeDramaLlama",
+    "personality": "schemer",
+    "avatar": 26
+  },
+  {
+    "username": "NuclearSockGremlin",
+    "personality": "schemer",
+    "avatar": 7
+  },
+  {
+    "username": "MaximumPantsGremlin",
+    "personality": "trickster",
+    "avatar": 20
+  },
+  {
+    "username": "TacticalChaosHamster",
+    "personality": "bully",
+    "avatar": 1
+  },
+  {
+    "username": "GlitterDumpsterRat",
+    "personality": "bully",
+    "avatar": 14
+  },
+  {
+    "username": "ChaoticPuddleGoblin",
+    "personality": "trickster",
+    "avatar": 27
+  },
+  {
+    "username": "TacticalBiscuitBandit",
+    "personality": "schemer",
+    "avatar": 8
+  },
+  {
+    "username": "DuchessFartGoblin",
+    "personality": "bully",
+    "avatar": 21
+  },
+  {
+    "username": "NeonDramaLlama",
+    "personality": "schemer",
+    "avatar": 2
+  }
+]

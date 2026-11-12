@@ -1,0 +1,35 @@
+SISSY FIGHTS NXT — Arena art generation record
+Built-in image_gen; hero.png used as visual reference only.
+
+COMMON PROMPT
+Use case: illustration-story. Asset type: finished full-bleed game arena background for Sissy Fights NXT. Reference image is style reference ONLY, not edit target. Match its fantastic early-2000s bratty chunky pixel-comic drawing, hand-inked stepped black outlines, restrained stippled halftone, off-white highlights, graphic warm shadows and saturated accent colors. Landscape 1536x1024. Empty playable scene, NO PEOPLE, no characters, no UI, no logos, no watermarks. Camera fixed front-facing slight downward angle suitable for six full-body characters in two rows. Set dressing along sides and far back; uninterrupted gently textured FLOOR across the lower sixty percent, open enough for fighters and small labels. Avoid large foreground obstructions. This is a polished production illustration, rude crude humorous nostalgic Flash-game atmosphere, dirty scenery but bright and inviting. 
+
+01 | The Glitter Gutter
+A pink-graffiti schoolyard with chain-link back fence, battered basketball hoop, wonky slide on the far right, spilled glitter bucket and chewed gum on cracked pale mauve asphalt. Silly angry-face graffiti on the wall, one little taped sign reading NO WHINING. Strawberry pink, ochre and dusty teal accents. Afternoon sunshine; litter only by edges.
+
+02 | Dumpster Divas
+A cartoon back alley behind a discount beauty salon: two overflowing green dumpsters at rear corners wearing spray-painted crowns, broken pink plastic salon chair to the far side, silly gossip graffiti on brick walls, an old CRT monitor at one edge. Huge open concrete alley floor, little banana peel and soda cans at margins. Teal, purple and dirty peach palette, warm sunset light.
+
+03 | Dial-Up Detention
+A decrepit Y2K school computer classroom, back wall lined with chunky beige CRT computers with ridiculous pop-up windows and a pink blinking error display, cables, floppy disks, creaky chairs tucked under desks, dusty green blackboard reading DIAL-UP DETENTION. A disconnected wall phone at left. Broad empty blue-grey linoleum floor across lower sixty percent; crushed paper only at edges. Olive, magenta, cream and cyan color palette.
+
+04 | Mall Rat Mayhem
+A tacky abandoned 2000s indoor shopping-mall concourse, a very small dry fountain tucked at far rear center with bubblegum stuck around edge, neon cosmetic-shop windows along back, empty benches on sides, fake potted palms, pink sale sign and ugly yellow floor-tile pattern. Floor uninterrupted lower sixty percent for a brawl. Lavender, turquoise, cream and hot pink palette, warm skylight.
+
+05 | Lollypop Lockdown
+The asphalt forecourt outside a tacky shabby candy shop, enormous spiral-lolly decorations on far rear storefront, shutter painted with angry candy faces, cracked gumball machine at far right, sticky puddle near side wall, bent candy-striped awning. Wide empty forecourt lower sixty percent with litter tiny at edges. Cherry red, pale mint, dusty pink and golden cream palette. Tiny hand-written sign NO FREE LICKS.
+
+06 | Trailer Trash Palace
+A gloriously tacky cartoon trailer-park courtyard, pale mint and pink caravan on the far back with gold-painted cardboard crown over the door, plastic flamingos at edges, clothesline with loud striped socks, tiny inflatable paddling pool at far edge, bent lawn chairs, crooked sign PALACE. Huge broad empty dusty concrete yard across lower sixty percent, sunlit with pink and ochre accents. Trashy maximalist backyard pride, small rear-side details only.
+
+07 | Toilet Paper Kingdom
+An absurd graffiti-covered public bathroom with cubicle doors and cracked sinks along back wall, toilet paper garlands strung near ceiling like royal bunting, graffiti crown and toilet-shaped doodles, slightly crooked hand dryer, humorous sign WASH YOUR ATTITUDE. Broad clean empty mint-and-grey checkerboard floor across lower sixty percent. The grime is comic ink marks, no bodily fluids, no actual excrement or nudity. Sour mint, pink, navy and warm cream.
+
+08 | Skatepark Meltdown
+A sunlit derelict skatepark with graffiti ramps and a low chain-link fence behind, a small curved ramp tucked at far left, rails at the far rear, discarded skateboard at edge, sticker-covered bin, angry smiley-face graffiti. Huge broad flat open lavender-gray concrete floor across lower sixty percent, no bowls in playable floor. Golden ochre sky, dark teal rails and magenta graffiti, early2000s brat energy.
+
+09 | Food Court Fiasco
+A trashy early2000s mall food court after lunch, back wall shows closed burger and pizza counters with cartoon angry fries on menus, neon FOOD COURT FIASCO signage, greasy paper wrappers and tipped milkshake only near side edges, bolted pink plastic chairs tucked at far sides. Huge broad empty pale peach terrazzo floor lower sixty percent. Mustard yellow, tomato red, turquoise and cream, fluorescent diner glow, comic grime.
+
+10 | The Petty Pool
+A drained outdoor public swimming pool turned petty brawl arena, camera inside the shallow flat pool facing tiled far wall; low rear steps and shiny ladder on far left, deflated pink flamingo ring and rubber duck at edge, chain-link fence and palm leaves above back wall, wall graffiti PETTY POOL and splashed doodles. Huge broad empty pale blue tiled dry pool floor across lower sixty percent. No water occupying fighting area, no characters. Sunlit cyan, pink, butter yellow and warm off-white palette.

@@ -1,0 +1,29 @@
+SISSY FIGHTS NXT 1.1.0 — UPDATE AN EXISTING XAMPP GAME
+=====================================================
+
+1. Close the game in your browsers. Stop the bot worker with
+   bin\stop-bots.cmd and wait until its console confirms the stop.
+2. Back up your existing game folder and export its database using
+   phpMyAdmin. Keep app\config.php: it contains your existing connection.
+3. Stop Apache in XAMPP while copying the update.
+4. Open the new archive, then copy the CONTENTS of its sissy-fights-nxt
+   folder into your EXISTING C:\xampp\htdocs\sissy-fights-nxt folder.
+   Allow replacement of matching files. Merge the folders; do not delete
+   your existing folder. This release does not contain app\config.php,
+   so your connection and installed state remain in place.
+5. Start Apache again, then start the worker with bin\start-bots.cmd.
+6. Open the normal game URL and press Ctrl+F5 once to refresh old assets.
+   Open your profile to choose any of the 32 fighter looks.
+
+Do not run the installer again and do not clear/recreate the database.
+The automatic cosmetic update changes bot appearance IDs only. It keeps
+human appearances, usernames, passwords, ratings, histories and records.
+Fights already in progress retain their saved fighter choices and use the
+original arena when they have no arena ID. New fights choose one of the
+ten new arenas at creation, and keep it for the entire fight.
+
+Sound starts enabled for a browser without a saved preference. If you
+muted the old version, choose SOUND ON. The first click/tap or keypress
+unlocks playback under the browser's normal autoplay rules.
+
+NEW INSTALL? Follow README.txt instead. XAMPP/PHP/MySQL are still required.

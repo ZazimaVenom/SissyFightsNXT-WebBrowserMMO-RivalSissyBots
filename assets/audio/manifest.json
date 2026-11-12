@@ -1,0 +1,271 @@
+{
+  "source_commit": "29e97dd7cdb0d30a933f0c0de215482c07136233",
+  "license": "CC BY 4.0",
+  "composer": "Lem Jay Ignacio",
+  "files": [
+    {
+      "file": "music/666/intro.mp3",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/music/666/intro.mp3",
+      "bytes": 150962,
+      "sha256": "afc5f51db7fe3252929107644831881b9a18eee67ee7d65e2a4666f7589d314d"
+    },
+    {
+      "file": "music/666/intro.ogg",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/music/666/intro.ogg",
+      "bytes": 110515,
+      "sha256": "4732de5c46a6d6e04293c79e29339befe5fe75a163789403d962a5e6958e5633"
+    },
+    {
+      "file": "music/666/loser.mp3",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/music/666/loser.mp3",
+      "bytes": 96217,
+      "sha256": "be09787ba903efe4a9af619f8d6bd0c442fe99e64f597ee40432773741b323a9"
+    },
+    {
+      "file": "music/666/loser.ogg",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/music/666/loser.ogg",
+      "bytes": 71534,
+      "sha256": "97965177d94fc8d6e19a0b7ba01cb8571f71f4910a4e5a6f83112acb62be8a5d"
+    },
+    {
+      "file": "music/666/polaroid.mp3",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/music/666/polaroid.mp3",
+      "bytes": 71722,
+      "sha256": "9e3854ecc4e4c3d17a66673e53751eeed85d93f7ba4c4b1dcf955119aa2d1202"
+    },
+    {
+      "file": "music/666/polaroid.ogg",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/music/666/polaroid.ogg",
+      "bytes": 51521,
+      "sha256": "04229f1ec25224ab4cf9a091c07a8ee072a78ea81ca181518b1bbbcd0ca6893a"
+    },
+    {
+      "file": "music/666/winner.mp3",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/music/666/winner.mp3",
+      "bytes": 173583,
+      "sha256": "19fb179aab63a1730d0c8f11d9a10bc7fe35af5036165aa96aeaab4a4a182ea2"
+    },
+    {
+      "file": "music/666/winner.ogg",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/music/666/winner.ogg",
+      "bytes": 131190,
+      "sha256": "21c3ad0b9fd121248971be9cf410d6f4ecb26fd21299d38f3f42d002a2844a82"
+    },
+    {
+      "file": "music/angel/intro.mp3",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/music/angel/intro.mp3",
+      "bytes": 140853,
+      "sha256": "3e4afb04e372f47f9682ba3d7920e02f19b371777d4825ab2bceba60c07d8c43"
+    },
+    {
+      "file": "music/angel/intro.ogg",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/music/angel/intro.ogg",
+      "bytes": 103740,
+      "sha256": "04b2f064c569388007d2d8daecc79f02389a7901028d30cadb3ff1bc7d715724"
+    },
+    {
+      "file": "music/angel/loser.mp3",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/music/angel/loser.mp3",
+      "bytes": 181424,
+      "sha256": "f4926ef1ce240c656d68f94a082fbc44d568284f2fd8780eeb90fafd34ac3721"
+    },
+    {
+      "file": "music/angel/loser.ogg",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/music/angel/loser.ogg",
+      "bytes": 140710,
+      "sha256": "d354994c70f85b3732f5f44a7058a1c14e8aa370dbb94bf91b73b026f9901509"
+    },
+    {
+      "file": "music/angel/polaroid.mp3",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/music/angel/polaroid.mp3",
+      "bytes": 71615,
+      "sha256": "18e292942ab3fcdb3b870c1283e8cf01d24650b39bb04d86d07c3d166deee4f7"
+    },
+    {
+      "file": "music/angel/polaroid.ogg",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/music/angel/polaroid.ogg",
+      "bytes": 56363,
+      "sha256": "0d640acab6c43863c4d07f1bfc71442c20e757bed11f79f0dc0079e58a722a11"
+    },
+    {
+      "file": "music/angel/winner.mp3",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/music/angel/winner.mp3",
+      "bytes": 166832,
+      "sha256": "bf54f0102381d6918dd1e598f6c7cf1fc7673694fd4b9a0b6234d080832626c3"
+    },
+    {
+      "file": "music/angel/winner.ogg",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/music/angel/winner.ogg",
+      "bytes": 128281,
+      "sha256": "a47725ba0c54ba6c419628d4e21c8369019454e47c7a8512e2988dd30388b692"
+    },
+    {
+      "file": "music/franklin/intro.mp3",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/music/franklin/intro.mp3",
+      "bytes": 124913,
+      "sha256": "7030d34571a8ce1b34879b4359f7ad5af56f8c7903bc69e6808d1c16b23e3658"
+    },
+    {
+      "file": "music/franklin/intro.ogg",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/music/franklin/intro.ogg",
+      "bytes": 89057,
+      "sha256": "94c9d7a47ac5371e7c5f08e73b23707ddff22580ef580f75eee7ae182becb102"
+    },
+    {
+      "file": "music/franklin/loser.mp3",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/music/franklin/loser.mp3",
+      "bytes": 132396,
+      "sha256": "2aa826ce8585ee6614ec358101415c31a3862fc3254ace82c214761642eae7a1"
+    },
+    {
+      "file": "music/franklin/loser.ogg",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/music/franklin/loser.ogg",
+      "bytes": 96481,
+      "sha256": "21b2bc7b4146ea0e19349026133a340ecddcb1d0a427778e7d9ba79d22c60b4f"
+    },
+    {
+      "file": "music/franklin/polaroid.mp3",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/music/franklin/polaroid.mp3",
+      "bytes": 94150,
+      "sha256": "be38db47997c11abcffb96fefc9e262bd7e9fd5a6b6294673ec1757920cc0434"
+    },
+    {
+      "file": "music/franklin/polaroid.ogg",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/music/franklin/polaroid.ogg",
+      "bytes": 70214,
+      "sha256": "1d53e8dfd8239f531df0b962cd33246b13c0625d59591f386313a778af3ced1c"
+    },
+    {
+      "file": "music/franklin/winner.mp3",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/music/franklin/winner.mp3",
+      "bytes": 167990,
+      "sha256": "94ca5e863912632d4087a7feae068c2cfc3a3f5a5931ca0ca4ca5bd06acf0304"
+    },
+    {
+      "file": "music/franklin/winner.ogg",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/music/franklin/winner.ogg",
+      "bytes": 116113,
+      "sha256": "f86986771bbbed51fdcd5fc3f0c894c0e6890ceaaad7c2548547ae265bb2c3db"
+    },
+    {
+      "file": "music/suzy/intro.mp3",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/music/suzy/intro.mp3",
+      "bytes": 140853,
+      "sha256": "3e4afb04e372f47f9682ba3d7920e02f19b371777d4825ab2bceba60c07d8c43"
+    },
+    {
+      "file": "music/suzy/intro.ogg",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/music/suzy/intro.ogg",
+      "bytes": 103740,
+      "sha256": "04b2f064c569388007d2d8daecc79f02389a7901028d30cadb3ff1bc7d715724"
+    },
+    {
+      "file": "music/suzy/loser.mp3",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/music/suzy/loser.mp3",
+      "bytes": 181424,
+      "sha256": "f4926ef1ce240c656d68f94a082fbc44d568284f2fd8780eeb90fafd34ac3721"
+    },
+    {
+      "file": "music/suzy/loser.ogg",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/music/suzy/loser.ogg",
+      "bytes": 140710,
+      "sha256": "d354994c70f85b3732f5f44a7058a1c14e8aa370dbb94bf91b73b026f9901509"
+    },
+    {
+      "file": "music/suzy/polaroid.mp3",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/music/suzy/polaroid.mp3",
+      "bytes": 71615,
+      "sha256": "18e292942ab3fcdb3b870c1283e8cf01d24650b39bb04d86d07c3d166deee4f7"
+    },
+    {
+      "file": "music/suzy/polaroid.ogg",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/music/suzy/polaroid.ogg",
+      "bytes": 56363,
+      "sha256": "0d640acab6c43863c4d07f1bfc71442c20e757bed11f79f0dc0079e58a722a11"
+    },
+    {
+      "file": "music/suzy/winner.mp3",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/music/suzy/winner.mp3",
+      "bytes": 166832,
+      "sha256": "bf54f0102381d6918dd1e598f6c7cf1fc7673694fd4b9a0b6234d080832626c3"
+    },
+    {
+      "file": "music/suzy/winner.ogg",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/music/suzy/winner.ogg",
+      "bytes": 128281,
+      "sha256": "a47725ba0c54ba6c419628d4e21c8369019454e47c7a8512e2988dd30388b692"
+    },
+    {
+      "file": "sound/action-select.mp3",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/sound/action-select.mp3",
+      "bytes": 6045,
+      "sha256": "373722ae9f4d431a998d879d612de5e05f831a96686eef386677126f040cd9bb"
+    },
+    {
+      "file": "sound/action-select.ogg",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/sound/action-select.ogg",
+      "bytes": 7537,
+      "sha256": "219236ca26844f5632d85d985d6d5f961a98e5fadf2745a4f8d755f204e0594b"
+    },
+    {
+      "file": "sound/buzzer.mp3",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/sound/buzzer.mp3",
+      "bytes": 11998,
+      "sha256": "ecaf5c3396250d5e7038486a640d31f44b6195b522be0e81af4726616ffaaf87"
+    },
+    {
+      "file": "sound/buzzer.ogg",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/sound/buzzer.ogg",
+      "bytes": 9482,
+      "sha256": "e5e9662adc322335a0b09cda7c79dd8f50439c7d09908156f878e7012aa1944e"
+    },
+    {
+      "file": "sound/click.mp3",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/sound/click.mp3",
+      "bytes": 1335,
+      "sha256": "d8c4154755d03c323e247a534de909a84c87983e06ebcd299e62d1491eb42fae"
+    },
+    {
+      "file": "sound/click.ogg",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/sound/click.ogg",
+      "bytes": 4681,
+      "sha256": "ab2debfb76e90e81baf87651fdcb9843cc3ff4e9fe6cbe6e5ed8ed712e1d7c66"
+    },
+    {
+      "file": "sound/countdown.mp3",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/sound/countdown.mp3",
+      "bytes": 117950,
+      "sha256": "3dffbaf699b4af4906e30eadd87f0f6eb9d2a7cf692d9b224fbbb77ad66d73b4"
+    },
+    {
+      "file": "sound/countdown.ogg",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/sound/countdown.ogg",
+      "bytes": 107344,
+      "sha256": "1870ed055411820f3fc3d6ca11850b6a002a990b959dc0db63b418841914f443"
+    },
+    {
+      "file": "sound/keyclick.mp3",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/sound/keyclick.mp3",
+      "bytes": 1343,
+      "sha256": "bf74ce399a5f591e721cfbbfca9d56f9b63fe4fd96fb91d592b86a64ff05ac4b"
+    },
+    {
+      "file": "sound/keyclick.ogg",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/sound/keyclick.ogg",
+      "bytes": 4335,
+      "sha256": "4efd190d433e57628688dc7be26b6d3feeb2066fe85c28a26c3431ec94fc4d8e"
+    },
+    {
+      "file": "sound/playloop.mp3",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/sound/playloop.mp3",
+      "bytes": 120143,
+      "sha256": "175d4997146324896324161ce763aa95172e7860df9fc6755412bee43b44681c"
+    },
+    {
+      "file": "sound/playloop.ogg",
+      "source": "https://raw.githubusercontent.com/moonmilk/sissyfight/29e97dd7cdb0d30a933f0c0de215482c07136233/public/client/assets/sound/playloop.ogg",
+      "bytes": 83722,
+      "sha256": "de0d9ab97d77e6cada8430f3045ae864e2bc32e4f9789b8db4abc874882ec7bc"
+    }
+  ]
+}
