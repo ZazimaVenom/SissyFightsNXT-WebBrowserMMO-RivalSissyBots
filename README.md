@@ -17,6 +17,14 @@ WHAT IS NEW
 - A coherent retro comic interface across the lobby, matches and profiles.
 - Original SiSSYFiGHT music and effects bundled locally, enabled by default.
 
+<img width="3840" height="1946" alt="0" src="https://github.com/user-attachments/assets/6d9d0969-c3eb-4d9f-86e9-fdc5e0e237f4" />
+
+<img width="3840" height="1946" alt="4" src="https://github.com/user-attachments/assets/9bf0ce98-f463-415e-8cf3-e661d697e8ff" />
+
+<img width="3840" height="2021" alt="1" src="https://github.com/user-attachments/assets/442951b6-3f9c-4b18-b8ac-51f4578b24ba" />
+
+<img width="3840" height="2026" alt="2" src="https://github.com/user-attachments/assets/53162d31-f4b2-45ca-a73b-b3eee623ddc2" />
+
 QUICK START ON WINDOWS
 1. Extract the sissy-fights-nxt folder into your XAMPP htdocs folder.
    Normal result: C:\xampp\htdocs\sissy-fights-nxt\index.php
